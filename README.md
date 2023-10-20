@@ -1,6 +1,11 @@
-# HOW TO START SIMRACING ON LINUX
+# Simracing on Linux
 
 ## Why?
-I like cars, but among all the things I don't like about real cars, the danger of dying in an accident is the one I dislike the most.
-I like Open Source and free games, but sometimes games done by a company are leagues above what volunteers can achieve. On the other hand, newer games require new, expensive Hardware for reasons that don't really improve the gaming so much. Right now, we have quite reallistic games that are almost entering the Abandonware bin.
-I am not a good enough driver. Taking notes on how I improve is a motivation. I will also publish exercises that work well.
+- I like racing but I cannot afford to die (or worse) on an accident, so...simulation it is.
+- I like the challenge of learning how to drive fast. I know my best chance is learning by doing.
+- I have a Budget. 0 is that Budget right now, so I have to work with what I have around: 
+  - Laptop running Linux
+  - G29 steering wheel
+  - A copy of GTR2 from Steam
+- I also like the challenge of making stuff work on Linux. 
+- Maybe someone on the interwebs can benefit from my findings as I progress on Both of the above challenges.
