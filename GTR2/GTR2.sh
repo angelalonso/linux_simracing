@@ -22,13 +22,13 @@ test_usb() {
   
 }
 
-adapt_profile() {
-  awk 'NR < 0 { next } { print } NR == 537 { exit }' ${INSTALLDIR}/UserData/${USER}/${USER}.PLR > ${PROFILES}/GENERATED.PLR
-  awk 'NR < 538 { next } { print } NR == 10000 { exit }' ${PROFILES}/${USB}.PLR >> ${PROFILES}/GENERATED.PLR
+adapt_controller() {
+  awk 'NR < 0 { next } { print } NR == 537 { exit }' ${INSTALLDIR}/UserData/${USER}/${USER}.PLR > ${CONTROLLERS}/GENERATED.PLR
+  awk 'NR < 538 { next } { print } NR == 10000 { exit }' ${CONTROLLERS}/${USB}.PLR >> ${CONTROLLERS}/GENERATED.PLR
   cp ${INSTALLDIR}/UserData/${USER}/${USER}.PLR.bck2 ${INSTALLDIR}/UserData/${USER}/${USER}.PLR.bck3
   cp ${INSTALLDIR}/UserData/${USER}/${USER}.PLR.bck ${INSTALLDIR}/UserData/${USER}/${USER}.PLR.bck2
   cp ${INSTALLDIR}/UserData/${USER}/${USER}.PLR ${INSTALLDIR}/UserData/${USER}/${USER}.PLR.bck
-  cp ${PROFILES}/GENERATED.PLR ${INSTALLDIR}/UserData/${USER}/${USER}.PLR
+  cp ${CONTROLLERS}/GENERATED.PLR ${INSTALLDIR}/UserData/${USER}/${USER}.PLR
 }
 
 run() {
@@ -39,15 +39,15 @@ run() {
   wine GTR2.exe
 }
 
-get_profile() {
-  cp ${PROFILES}/${USB}.PLR ${PROFILES}/${USB}.PLR.orig
-  awk 'NR < 538 { next } { print } NR == 10000 { exit }' ${INSTALLDIR}/UserData/${USER}/${USER}.PLR > ${PROFILES}/${USB}.PLR
+get_controller() {
+  cp ${CONTROLLERS}/${USB}.PLR ${CONTROLLERS}/${USB}.PLR.ORIG
+  awk 'NR < 538 { next } { print } NR == 10000 { exit }' ${INSTALLDIR}/UserData/${USER}/${USER}.PLR > ${CONTROLLERS}/${USB}.PLR
 }
 
 
 source ./env
-PROFILES="${AUXDIR}/profiles"
+CONTROLLERS="${AUXDIR}/controllers"
 test_usb
-adapt_profile
+adapt_controller
 run
-get_profile
+get_controller

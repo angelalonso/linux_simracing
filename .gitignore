@@ -1,6 +1,6 @@
 GTR2/env
-GTR2/profiles/*
-!GTR2/profiles/JOY.PLR
-!GTR2/profiles/KEY.PLR
-!GTR2/profiles/G29.PLR
+GTR2/controllers/*
+!GTR2/controllers/JOY.PLR
+!GTR2/controllers/KEY.PLR
+!GTR2/controllers/G29.PLR
 
