@@ -2,7 +2,7 @@
 
 ## Why?
 - I like racing but I cannot afford to die (or worse) on an accident, so...simulation it is.
-- I like the challenge of learning how to drive fast. I know my best chance is learning by doing.
+- I like the challenge of learning how to drive fast. Learning by doing, I choose you!
 - I have a Budget. 0 is that Budget right now, so I have to work with what I have around: 
   - Laptop running Linux
   - G29 steering wheel
