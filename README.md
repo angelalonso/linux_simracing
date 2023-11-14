@@ -12,6 +12,7 @@
 - I also like the challenge of making stuff work on Linux. 
 - Maybe someone on the interwebs can benefit from my findings as I progress on Both of the above challenges.
 
+  
 # How I make the game work on Wine
 - Almost vanilla Ubuntu 22.04 on a Dell XPS 9360
 - Installed Steam
@@ -44,3 +45,16 @@ winetricks -q dotnet471 # yes, probably a newer version would be better, but thi
 wine lghub_installer_2021.3.5164.exe # got it from https://support.logi.com/hc/en-us/articles/360025298133
 
 
+# Troubleshooting:
+##  ERROR:
+  0024:err:msvcrt:_invalid_parameter (null):0 (null): (null) 0
+  0024:err:module:loader_init "mfc100.dll" failed to initialize, aborting
+  ----
+  SOLUTION #1:
+  Copy over all files from ./GTR2/dlls to the main directory of your GTR2 installation
+  
+  SOLUTION #2
+  Made another copy of the folder
+  Installed Power and Glory
+  copied over all .dll on P&G's folder to my GTR2 folder
+  
