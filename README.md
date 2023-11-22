@@ -21,7 +21,7 @@
 cp -r $HOME/.steam/debian-installation/steamapps/common/GTR\ 2\ -\ FIA\ GT\ Racing\ Game $HOME/.wine/drive_c/GTR2
 - install proper libraries
   - when you run wine you may be asked to, but DO NOT INSTALL MONO JUST YET!
-winetricks d9vk
+winetricks dxvk
 winetricks videomemorysize=default
 winetricks dotnet45
 wine vcredist_x86.exe -> get it from Microsoft, look for Visual C++ 2010
@@ -31,8 +31,37 @@ wine GTR2Config.exe -> set your screen resolution, no vertical sync no antialias
 ATTENTION: I am running without the Anniversary HQ mod! (somehow FFB seems to work better...if I set it to rumblepad(yes, it's weird))
 
 # How I configure FFB on Linux
-install oversteer https://github.com/berarma/oversteer
+- install oversteer https://github.com/berarma/oversteer
+- git clone https://github.com/berarma/oversteer.git
+  - cd oversteer
+  - meson build
+  - cd build
+  - ninja install
+  - restart the system
+- install new-lg4ff https://github.com/berarma/new-lg4ff
+- I chose the DKMS method:
+  - Install DMKS packages from apt
+  - Download the repo into /usr/src/new-lg4ff
+  - sudo dkms install /usr/src/new-lg4ff
+    - IMPORTANT: Choose a DMKS Password that is easy to type on US-Layout Keyboard (I failed several times because mine is QWERTZ)
+  - restart and enter the previous password (Again, here you probably have a US Layout)
 
+# How I make proper HUDs show up
+
+Install XD Tool
+Install MoTeC (which version?)
+Configure my PLR (where did I get this info from?)
+Set resolution to XXX:YYY-32bit
+Set wine to Windows XP (tried also with winetricks)
+...and still it doesn't work UNLESS you overwrite your GTR2.exe with the one from HQ Anniversary:
+Copy your GTR2.exe to GTR2.exe.original
+Download HQ Anniversary from https://esport-racing.de/gtr2-16th-anniversary-patch/
+Open the Compressed file and extract ONLY the GTR2.exe into your GTR2 folder (in other words, overwrite yours)
+
+# Improving performance: 4GB Patch - SPOILER could not open the executable
+- Download the patch
+- Make a copy of GTR2.exe
+- Run the patch with wine
 
 # Challenges
 - Get proper Force Feedback
