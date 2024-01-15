@@ -46,6 +46,53 @@ ATTENTION: I am running without the Anniversary HQ mod! (somehow FFB seems to wo
     - IMPORTANT: Choose a DMKS Password that is easy to type on US-Layout Keyboard (I failed several times because mine is QWERTZ)
   - restart and enter the previous password (Again, here you probably have a US Layout)
 
+## How I configured it to feel ANYTHING on GTR2
+Oversteer:
+- Controls > Rotation Range > 240
+- Force Feedback > Global Feedback Gain > 71
+- Force Feedback > Spring effect gain > 60
+- force feedback > Damper effect gain > 0
+- force feedback > Friction effect gain > 60
+- Force Feedback > Autocenter strength > 35
+, then I use FFBMeter to Leds, to check that I am not clipping (I try that FFB level only lightens up to orange and not red while car stands still)
+GTR2:
+- Controls > Force:
+  - Basic effects - Rumblepad
+  - Force Feedback effects - Full
+  - Force Feedback strength - 75%
+  - Reverse Effects - OFF
+### Previous ones (for own reference)
+#### Poor
+Oversteer:
+- Controls > Rotation Range > 240
+- Force Feedback > Global Feedback Gain > 71
+- Force Feedback > Spring effect gain > 60
+- force feedback > Damper effect gain > 0
+- force feedback > Friction effect gain > 60
+- Force Feedback > Autocenter strength > 35
+, then I use FFBMeter to Leds, to check that I am not clipping (I try that FFB level only lightens up to orange and not red while car stands still)
+GTR2:
+- Controls > Force:
+  - Specialized effects - Logitech MOMO FORCE
+  - Force Feedback effects - High
+  - Force Feedback strength - 98%
+  - Reverse Effects - ON
+### Very Poor 
+Oversteer:
+- Controls > Rotation Range > 240
+- Force Feedback > Global Feedback Gain > 50
+- Force Feedback > Spring effect gain > 50
+- force feedback > Damper effect gain > 50
+- force feedback > Friction effect gain > 100
+- Force Feedback > Autocenter strength > 35
+, then I use FFBMeter to Leds, to check that I am not clipping (I try that FFB level only lightens up to orange and not red while car stands still)
+GTR2:
+- Controls > Force:
+  - Basic effects - Wheel
+  - Force Feedback effects - High
+  - Force Feedback strength - 70%
+  - Reverse Effects - ON
+
 # How I make proper HUDs show up
 
 Install XD Tool
