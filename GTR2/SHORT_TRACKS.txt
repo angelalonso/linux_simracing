@@ -1,3 +1,5 @@
+- HSR Forward
+- suzuka east 
 
 
 NFSS Autopolis Lakeside 1717k
@@ -25,41 +27,46 @@ km
  twisty
  ups n downs
 
-- 
-km
-:
- twisty
- ups n downs
+- Dijon prenois 2011 Short
+3289km
+1:10
+7 twisty
+7 ups n downs
+very good, fast, maybe too narrow
 
-- 
-km
-:
- twisty
- ups n downs
+- Donington National 2011
+3149km
+1:10
+6 twisty
+7 ups n downs
 
-- 
-km
-:
- twisty
- ups n downs
+- Dubai club
+2531km
+1:05
+8 twisty
+7 ups n downs
+very nice, proper GP scenery too
 
-- 
-km
-:
- twisty
- ups n downs
+- Hockenheim Short
+2638km
+1:05
+5 twisty
+0 ups n downs
+very technical, good curves, proper GP
 
-- 
-km
-:
- twisty
- ups n downs
+- HSR Forward
+4047km
+1:05
+2 twisty
+5 ups n downs
+long but very fast, very good to learn banking
 
-- 
-km
-:
- twisty
- ups n downs
+-  knockhill 2005
+2092km
+1:00
+6 twisty
+7 ups n downs
+very narrow, technical maybe
 
 - Lime rock park chicane
 2700km
