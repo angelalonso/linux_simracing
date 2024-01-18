@@ -19,13 +19,37 @@ Magny Cours National 2684 - locked
 virginia south 2880k
 monaco 3340
 Redbull ring 4319k
+croft circuit - sky bug
+
+-  13 umbria maggione
+2507km
+1:20
+6 twisty
+0 ups n downs
+its ok but somehow slow
 
 
-- 
-km
-:
+- Anderstorp South
+2000km
+0:50
+3 twisty
+2 ups n downs
+a bit meh
+
+
+- Bahrain Sakhir Short
+2527km
+1:05
  twisty
  ups n downs
+
+
+- Barcelona National 2006, 2016
+2974km
+1:11
+7 twisty
+5 ups n downs
+classic barcelona, some lines not clear but very nice
 
 - Dijon prenois 2011 Short
 3289km
@@ -208,3 +232,10 @@ its own look, loads of banks
 8 twisty 
 7 ups n downs
 proper GP track scenery
+
+- 
+km
+:
+ twisty
+ ups n downs
+
