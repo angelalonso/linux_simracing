@@ -30,3 +30,7 @@ Oulton Park Forsters - Harder than Suzuka East, not so easy to get pole but ok 1
 Hockenheim Short - flat, technical, proper GP...maybe too long?, better for learning whole hockenheim?
 Barcelona National 2006, 2016 - very nice, difficult to master, maybe too longe but good
 
+NFSS Autopolis Lakeside - Way too technical, way too slow, but an interesting circuit
+Bahrain Short - nice gp, desert, hard to get pole, nice races, careful with fuel!
+Zandvoort club - many curves, hard to master, but nice looking many hills and banks
+Dubai Club - Less desert but also very nice. hard to pole, but good for overtaking
