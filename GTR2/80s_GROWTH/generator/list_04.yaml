@@ -1,0 +1,66 @@
+- "80s_GROWTH_021 @ Monza - Peugeot 205 GTI":
+  - description: "- Description of this Championship:\n
+\n 
+    This Championship's goal is to learn Monza with a FWD Car, on a sunny day.\n
+\n
+    AI is at its top.\n
+\n
+    There are two races:\n
+    - Monza, 20 laps\n
+    - Monza, 40 laps\n"
+    cars:
+      pug205: "Peugeot 205 GTI"
+    Weather: 1
+    StartMode: FormationRollingStart
+    SkipPractice1: true
+    SkipPractice2: true
+    SkipQualifying2: true
+    SkipWarmup: true
+    "Max Vehicles": 19
+    RaceStart: "15:00"
+    Qualify1Duration: 30
+    RaceTime: 10
+    races:
+      - race_01:
+        track: 4Monza
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_02:
+        track: 4Monza
+        RaceLaps: 40
+        AIStrength: 120
+        AIRealism: 1.50
+- "80s_GROWTH_022 @ Monza - Toyota Corolla AE86 Trueno":
+  - description: "- Description of this Championship:\n
+\n 
+    This Championship's goal is to learn Monza with a Toyota Corolla AE86 Trueno RWD car, on a sunny day.\n
+\n
+    AI is at its top.\n
+\n
+    There are two races:\n
+    - Monza, 20 laps\n
+    - Monza, 40 laps\n"
+    cars:
+      Trueno: "Toyota Corolla AE86 Trueno"
+    Weather: 1
+    StartMode: FormationRollingStart
+    SkipPractice1: true
+    SkipPractice2: true
+    SkipQualifying2: true
+    SkipWarmup: true
+    "Max Vehicles": 19
+    RaceStart: "15:00"
+    Qualify1Duration: 30
+    RaceTime: 10
+    races:
+      - race_01:
+        track: 4Monza
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_02:
+        track: 4Monza
+        RaceLaps: 40
+        AIStrength: 120
+        AIRealism: 1.50

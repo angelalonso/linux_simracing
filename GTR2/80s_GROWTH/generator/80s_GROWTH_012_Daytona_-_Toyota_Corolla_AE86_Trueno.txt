@@ -1,0 +1,31 @@
+<CHAMP_ICON>
+<CHAMP_TROPHY>
+<SET_FONT>
+FT_LISTBOX_InPit
+80s_GROWTH_012 @ Daytona - Toyota Corolla AE86 Trueno
+<SET_FONT>
+FT_LISTBOX_HEADER
+
+Rounds: 2
+
+<DRIVER_NAME>
+<CHAMP_STATUS>
+<BEST_FINISH>
+<DRIVER_POSITION>
+<TEAM_POSITION>
+<CATEGORY>
+<CAT_DRIVER_POSITION>
+<CAT_TEAM_POSITION>
+NEXT_ROUND>
+
+SET_FONT>
+FT_Standard_TEXT_SMALL
+- Description of this Championship:
+ 
+ This Championship's goal is to learn Daytona with a Toyota Corolla AE86 Trueno RWD car, on a sunny day.
+ 
+ AI is at its top.
+ 
+ There are two races:
+ - Daytona, 20 laps
+ - Daytona, 40 laps

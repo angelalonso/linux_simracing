@@ -1,0 +1,31 @@
+<CHAMP_ICON>
+<CHAMP_TROPHY>
+<SET_FONT>
+FT_LISTBOX_InPit
+80s_GROWTH_031 @ Red Bull Ring - Peugeot 205 GTI
+<SET_FONT>
+FT_LISTBOX_HEADER
+
+Rounds: 2
+
+<DRIVER_NAME>
+<CHAMP_STATUS>
+<BEST_FINISH>
+<DRIVER_POSITION>
+<TEAM_POSITION>
+<CATEGORY>
+<CAT_DRIVER_POSITION>
+<CAT_TEAM_POSITION>
+NEXT_ROUND>
+
+SET_FONT>
+FT_Standard_TEXT_SMALL
+- Description of this Championship:
+ 
+ This Championship's goal is to learn Red Bull Ring with a FWD Car, on a sunny day.
+ 
+ AI is at its top.
+ 
+ There are two races:
+ - Red Bull Ring, 20 laps
+ - Red Bull Ring, 40 laps

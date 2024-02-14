@@ -1,0 +1,47 @@
+<CHAMP_ICON>
+<CHAMP_TROPHY>
+<SET_FONT>
+FT_LISTBOX_InPit
+80s_GROWTH_001 @ Hotlaps
+<SET_FONT>
+FT_LISTBOX_HEADER
+
+Rounds: 5
+
+<DRIVER_NAME>
+<CHAMP_STATUS>
+<BEST_FINISH>
+<DRIVER_POSITION>
+<TEAM_POSITION>
+<CATEGORY>
+<CAT_DRIVER_POSITION>
+<CAT_TEAM_POSITION>
+NEXT_ROUND>
+
+SET_FONT>
+FT_Standard_TEXT_SMALL
+Welcome to the first of the 80's Growth Championships.
+ 
+ - About these Growth Championships:
+ 
+ They are setup as a progression. Each Championship should gradually either increase difficulty, or add elements of complexity to practice (e.g.: Pit stops, weather).
+ As an example, the first championships use a FWD Peugeot 205 GTI, then moves on to use a RWD Toyota AE86, both cars from the 80's (that's the 80's on 80's Growth).
+
+No one controls this, but you should try to only move on to the next championship after you won your current championship.
+ 
+ - Description of this Championship:
+ 
+ The races are 1-lap long, so you will need to get good at:
+ - Making a hotlap that gets you pole position.
+ - Standing Starts.
+ - probably setting up your car
+ 
+ This first Championship uses the 205 GTI car, on several short Circuits, on perfect weather.
+ 
+ 
+ There are five races:
+ - High Speed Ring
+ - Monza Junior
+ - Motegi Twin Ring West
+ - Brands Hatch Indy
+ - Suzuka East

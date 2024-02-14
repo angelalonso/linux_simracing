@@ -1,0 +1,66 @@
+- "80s_GROWTH_011 @ Daytona - Peugeot 205 GTI":
+  - description: "- Description of this Championship:\n
+\n 
+    This Championship's goal is to learn Daytona with an Alfa Romeo 147 FWD car, on a sunny day.\n
+\n
+    AI is at its top.\n
+\n
+    There are two races:\n
+    - Daytona, 20 laps\n
+    - Daytona, 40 laps\n"
+    cars:
+      pug205: "Peugeot 205 GTI"
+    Weather: 1
+    StartMode: FormationRollingStart
+    SkipPractice1: true
+    SkipPractice2: true
+    SkipQualifying2: true
+    SkipWarmup: true
+    "Max Vehicles": 19
+    RaceStart: "15:00"
+    Qualify1Duration: 30
+    RaceTime: 10
+    races:
+      - race_01:
+        track: DaytonaRC
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_02:
+        track: DaytonaRC
+        RaceLaps: 40
+        AIStrength: 120
+        AIRealism: 1.50
+- "80s_GROWTH_012 @ Daytona - Toyota Corolla AE86 Trueno":
+  - description: "- Description of this Championship:\n
+\n 
+    This Championship's goal is to learn Daytona with a Toyota Corolla AE86 Trueno RWD car, on a sunny day.\n
+\n
+    AI is at its top.\n
+\n
+    There are two races:\n
+    - Daytona, 20 laps\n
+    - Daytona, 40 laps\n"
+    cars:
+      Trueno: "Toyota Corolla AE86 Trueno"
+    Weather: 1
+    StartMode: FormationRollingStart
+    SkipPractice1: true
+    SkipPractice2: true
+    SkipQualifying2: true
+    SkipWarmup: true
+    "Max Vehicles": 19
+    RaceStart: "15:00"
+    Qualify1Duration: 30
+    RaceTime: 10
+    races:
+      - race_01:
+        track: DaytonaRC
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_02:
+        track: DaytonaRC
+        RaceLaps: 40
+        AIStrength: 120
+        AIRealism: 1.50
