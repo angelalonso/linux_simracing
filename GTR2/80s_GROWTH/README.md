@@ -13,8 +13,16 @@ Each Championship should only be joined after winning the previous one but it's 
   - "Failed to score any points"
   - weather on race still can be rain
   - Needs presentation and guide: Gears, low fuel, aero... link to gitlab?
-    - HSR - 1:17:350
-    - Monza Jr. - 1:01:7 ? (I did 1:02:6)
+    - HSR
+      - [Description of the challenge](80s_GROWTH_001_Hotlaps_HSR_205.md)
+    - Monza Jr. - 1:01:7 ? (I did 1:01:9) 
+      - [Description of the challenge](80s_GROWTH_001_Hotlaps_MonzaJR_205.md)
+      - Issues with AI setup:
+        - 100AI -> 1:01:989 
+        - 110AI -> 1:01:4
+        - 120AI -> 1:00:7
+
+
 - Survive a Race on short tracks
 - Recovery races, starting from the back -> are the current laps enough?
 - Consistency races on longer tracks, regular racing weekend - Will do european tracks on Peugeot, then Asian and american ones on AE86.
