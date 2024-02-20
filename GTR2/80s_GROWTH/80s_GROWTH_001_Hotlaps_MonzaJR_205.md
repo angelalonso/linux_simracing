@@ -2,6 +2,7 @@
 
  This track is the first on which you'll notice how little grip the Peugeot has on acceleration. 
 You will have to learn to modulate your throttle.
+Current goal is 1:01:900
 
 ## The track
 You can divide the track in

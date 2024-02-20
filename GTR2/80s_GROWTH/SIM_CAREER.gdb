@@ -1,13 +1,17 @@
 Game Name = 80s Growth Mode
-Game Filter = AND: FULL
+Game Filter = AND: pug205 AND: Trueno AND: CATERHAM AND: 911CUP_TC
 IgnoreTrackFilter
 
 SpecialClasses
 {
   pug205 = Peugeot 205 GTI
   Trueno = Toyota AE86 Trueno
-  Grid2 = Skyline R32
-  P962 = Porsche 962
+  Caterham_200 = Caterham CSR 200bhp
+  Caterham_260 = Caterham CSR 260bhp
+  Caterham_320 = Caterham CSR 320bhp
+  911CUP_TC1 = Porsche 911 turbo TC1
+  911CUP_TC2 = Porsche 911 turbo TC2
+  911CUP_TC3 = Porsche 911 turbo TC3
 }
 
 DefaultClassIndex = 1
@@ -25,16 +29,24 @@ Category
 {
   pug205 = Peugeot 205 GTI
   Trueno = Toyota AE86 Trueno
-  Grid2 = Skyline R32
-  P962 = Porsche 962
+  Caterham_200 = Caterham CSR 200bhp
+  Caterham_260 = Caterham CSR 260bhp
+  Caterham_320 = Caterham CSR 320bhp
+  911CUP_TC1 = Porsche 911 turbo TC1
+  911CUP_TC2 = Porsche 911 turbo TC2
+  911CUP_TC3 = Porsche 911 turbo TC3
 }
 
 ComparativeCategory
 {
   pug205 = Peugeot 205 GTI
   Trueno = Toyota AE86 Trueno
-  Grid2 = Skyline R32
-  P962 = Porsche 962
+  Caterham_200 = Caterham CSR 200bhp
+  Caterham_260 = Caterham CSR 260bhp
+  Caterham_320 = Caterham CSR 320bhp
+  911CUP_TC1 = Porsche 911 turbo TC1
+  911CUP_TC2 = Porsche 911 turbo TC2
+  911CUP_TC3 = Porsche 911 turbo TC3
 }
 
 DefaultScoring

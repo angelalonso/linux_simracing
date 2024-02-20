@@ -45,25 +45,25 @@
         AIStrength: 120
       - race_02:
         track: JNMonza
-        StartMode: StandingStart
+        StartMode: FormationRollingStart
         Qualify1Duration: 30
         RaceLaps: 1
-        AIStrength: 120
+        AIStrength: 100
       - race_03:
         track: MotWest
-        StartMode: StandingStart
+        StartMode: FormationRollingStart
         Qualify1Duration: 30
         RaceLaps: 1
         AIStrength: 120
       - race_04:
         track: I2008_Brands_Hatch_2
-        StartMode: StandingStart
+        StartMode: FormationRollingStart
         Qualify1Duration: 30
         RaceLaps: 1
         AIStrength: 120
       - race_05:
         track: east
-        StartMode: StandingStart
+        StartMode: FormationRollingStart
         Qualify1Duration: 30
         RaceLaps: 1
         AIStrength: 120

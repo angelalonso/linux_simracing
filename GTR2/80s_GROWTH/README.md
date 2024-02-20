@@ -15,12 +15,11 @@ Each Championship should only be joined after winning the previous one but it's 
   - Needs presentation and guide: Gears, low fuel, aero... link to gitlab?
     - HSR
       - [Description of the challenge](80s_GROWTH_001_Hotlaps_HSR_205.md)
+      - AI can be turned up to 120 because it is doable on this circuit
     - Monza Jr. - 1:01:7 ? (I did 1:01:9) 
       - [Description of the challenge](80s_GROWTH_001_Hotlaps_MonzaJR_205.md)
-      - Issues with AI setup:
-        - 100AI -> 1:01:989 
-        - 110AI -> 1:01:4
-        - 120AI -> 1:00:7
+      - AI had to be turned down to 100 because it is a big enough challenge at this stage
+      - No penalty on starting before green light??
 
 
 - Survive a Race on short tracks

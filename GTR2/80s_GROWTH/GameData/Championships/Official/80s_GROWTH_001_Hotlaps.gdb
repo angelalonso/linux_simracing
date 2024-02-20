@@ -109,15 +109,15 @@ SceneOrder
   JNMonza
   {
     track = JNMonza
-    StartMode = StandingStart
+    StartMode = FormationRollingStart
     Qualify1Duration = 30
     RaceLaps = 1
-    AIStrength = 120
+    AIStrength = 100
   }
   MotWest
   {
     track = MotWest
-    StartMode = StandingStart
+    StartMode = FormationRollingStart
     Qualify1Duration = 30
     RaceLaps = 1
     AIStrength = 120
@@ -125,7 +125,7 @@ SceneOrder
   I2008_Brands_Hatch_2
   {
     track = I2008_Brands_Hatch_2
-    StartMode = StandingStart
+    StartMode = FormationRollingStart
     Qualify1Duration = 30
     RaceLaps = 1
     AIStrength = 120
@@ -133,7 +133,7 @@ SceneOrder
   east
   {
     track = east
-    StartMode = StandingStart
+    StartMode = FormationRollingStart
     Qualify1Duration = 30
     RaceLaps = 1
     AIStrength = 120
