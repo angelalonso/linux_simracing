@@ -1,0 +1,127 @@
+- "80s_GROWTH_111 - F1 2024-ish - Toyota Corolla AE86 Trueno":
+  - description: "- Description of this Championship:\n
+\n 
+    This Championship's goal is to go through all Tracks on 2024's F1 Calendar (conditions may apply and some tracks don't yet exist on GTR2).\n
+\n
+    AI is at its top.\n
+\n"
+    cars:
+      Trueno: "Toyota Corolla AE86 Trueno"
+    Weather: 0
+    StartMode: FormationRollingStart
+    SkipPractice2: true
+    SkipQualifying2: true
+    SkipWarmup: true
+    "Max Vehicles": 19
+    RaceStart: "15:00"
+    Qualify1Duration: 30
+    RaceTime: 120
+    races:
+      - race_01:
+        track: Sakhir
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_02:
+        track: JeddahStreetCircuit
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_03:
+        track: Melbourne
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_04:
+        track: 12Suzuka
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+#        track: Shanghai **
+#        track: Miami **
+      - race_07:
+        track: Imola_2021
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_08:
+        track: Monaco
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_09:
+        track: 11Montreal
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_10:
+        track: 16A03Barcelona
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_11:
+        track: DTM_RedBullRing
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_12:
+        track: SilverstoneGP
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_13:
+        track: 16Hungaroring
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_14:
+        track: GP_TotalSpa2013
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_15:
+        track: Zandvoort
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_16:
+        track: 4Monza
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_17:
+        track: Baku_16
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_18:
+        track: Singapore08
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_19:
+        track: CotaTexas01
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_20:
+        track: HermanosRodriguez
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_21:
+        track: Inter
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+#        track: Las Vegas *
+      - race_23:
+        track: Losail
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_24:
+        track: Yas_Marina
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
