@@ -1,0 +1,66 @@
+- "CAREER_021 @ Monza - Alfa Romeo 147 GT-R":
+  - description: "- Description of this Championship:\n
+\n 
+    This Championship's goal is to learn Monza with a FWD Car, on a sunny day.\n
+\n
+    AI is at its top.\n
+\n
+    There are two races:\n
+    - Monza, 20 laps\n
+    - Monza, 40 laps\n"
+    cars:
+      alfa147: "Alfa Romeo 147 GT-R"
+    Weather: 1
+    StartMode: FormationRollingStart
+    SkipPractice1: true
+    SkipPractice2: true
+    SkipQualifying2: true
+    SkipWarmup: true
+    "Max Vehicles": 19
+    RaceStart: "15:00"
+    Qualify1Duration: 30
+    RaceTime: 10
+    races:
+      - race_01:
+        track: 4Monza
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_02:
+        track: 4Monza
+        RaceLaps: 40
+        AIStrength: 120
+        AIRealism: 1.50
+- "CAREER_022 @ Monza - BMW E46 M3":
+  - description: "- Description of this Championship:\n
+\n 
+    This Championship's goal is to learn Monza with a BMW E46 M3 RWD car, on a sunny day.\n
+\n
+    AI is at its top.\n
+\n
+    There are two races:\n
+    - Monza, 20 laps\n
+    - Monza, 40 laps\n"
+    cars:
+      e46sport: "BMW E46 M3"
+    Weather: 1
+    StartMode: FormationRollingStart
+    SkipPractice1: true
+    SkipPractice2: true
+    SkipQualifying2: true
+    SkipWarmup: true
+    "Max Vehicles": 19
+    RaceStart: "15:00"
+    Qualify1Duration: 30
+    RaceTime: 10
+    races:
+      - race_01:
+        track: 4Monza
+        RaceLaps: 20
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_02:
+        track: 4Monza
+        RaceLaps: 40
+        AIStrength: 120
+        AIRealism: 1.50
