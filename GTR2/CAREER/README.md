@@ -46,13 +46,16 @@ Internet tells you to practice Trail Braking, Racing Lines, using the whole trac
   - weather on race still can be rain
   - Needs presentation and guide: Gears, low fuel, aero... link to gitlab?
     - HSR
+      - https://esport-racing.de/high-speed-ring/
       - [Description of the challenge](80s_GROWTH_001_Hotlaps_HSR_205.md)
       - AI can be turned up to 120 because it is doable on this circuit
     - Monza Jr. - 1:01:7 ? (I did 1:01:9) 
+      - Included with the game, maybe use another?
       - [Description of the challenge](80s_GROWTH_001_Hotlaps_MonzaJR_205.md)
       - AI had to be turned down to 100 because it is a big enough challenge at this stage
       - No penalty on starting before green light??
     - Motegi West 
+      - Current version does not have working pits, use another maybe?
       - AI100 0:40:
       - AI110 0:39:850
       - AI120 0:39:050
@@ -71,32 +74,107 @@ Internet tells you to practice Trail Braking, Racing Lines, using the whole trac
 2002 Pre-season event: Rainy races
 - Description:
   - Regular races under the rain on short tracks
+
 2002 Spring Alfa 147 GT Challenge
 - Description:
-  - Regular / shortish races with random weather (tendency to sunny) on proper GP tracks that are also not too long
+  - European races with random weather (tendency to sunny) on proper GP tracks that are also not too long
 - Tracks:
 Barcelona (no chicane)
-- Barcelona GP Classic 2006, 2016
+- Barcelona GP Classic 2006, 2016 -> tested to be OK
+- https://esport-racing.de/circuit-de-barcelona-catalunya-2016/
+- https://esport-racing.de/barcelona-2007/
+- https://esport-racing.de/barcelona-2003-texture-update/
+- https://esport-racing.de/barcelona-1991/
+- https://esport-racing.de/lms-catalunya/
 Brands Hatch
 - Brands Hatch 2008
+- https://esport-racing.de/brands-hatch-early-1960-1975/
+- https://esport-racing.de/brands-hatch-early/
+- https://esport-racing.de/brands-hatch-2008/
+- https://esport-racing.de/brands-hatch-2006/
+- https://esport-racing.de/brands-hatch-90s/
+- (find the DTM one for the short track, or choose a different one)
 Imola
 - Imola_2021
+- https://esport-racing.de/imola-2021/
+- https://esport-racing.de/imola-2004-reversed/
+- https://esport-racing.de/imola-ilmc-2010/
+- https://esport-racing.de/imola-2004-with-tire-wall/
+- https://esport-racing.de/imola-gp-1994/
+- https://esport-racing.de/imola-1988/
 Jerez
 - https://esport-racing.de/jerez-gp/
 - https://esport-racing.de/jerez-f1-gp-1994/
 - https://esport-racing.de/jerez-1988/
 Monaco
+- https://esport-racing.de/monaco-2011/
+- https://esport-racing.de/monaco-2008/
+- https://esport-racing.de/monaco-2007/
+- https://esport-racing.de/monaco-2006/
+- https://esport-racing.de/monaco-2002/
+- https://esport-racing.de/monaco-1988/
+- https://esport-racing.de/monaco-1979-gpc/
+- https://esport-racing.de/monaco-1967/
 Oulton Park
 - Oulton Park 2005 International
-Portimao - goodwood
+- https://esport-racing.de/oulton-park-btcc/
+- https://esport-racing.de/oulton-park-2005/
+- https://esport-racing.de/oulton-park-60s/
+Portimao
+- https://esport-racing.de/algarve-ic-2010/
+- https://esport-racing.de/algarve/
 RBRing
-Sachsenring - goodwood
-Zandvoort - Russell
+- DTM one seems to be the best
+- https://esport-racing.de/a1-ring/
+- https://esport-racing.de/osterreichring-gpc-1979/
+- https://esport-racing.de/osterreichring-1975/
+- https://esport-racing.de/osterreichring-1970/
+- https://esport-racing.de/red-bull-ring/
+- https://esport-racing.de/red-bull-ring-dtm/
+- https://esport-racing.de/a1-ring-2001/
+Sachsenring
+- https://esport-racing.de/sachsenring/
+- https://esport-racing.de/sachsenring-gp-1999/
+- https://esport-racing.de/sachsenring-1967/
+Zandvoort
+- https://esport-racing.de/zandvoort-2010-srw/
+- https://esport-racing.de/zandvoort-2017/
+- https://esport-racing.de/zandvoort-2007-2009/
+- https://esport-racing.de/zandvoort-2006-2009/
+- https://esport-racing.de/zandvoort-1979-gpc/
+- https://esport-racing.de/zandvoort-1975/
+- https://esport-racing.de/zandvoort-1967/
 
-2002 Autumn BMW Sport Endurance Championship
+2002 Autumn BMW Sport Challenge
+- Description:
+  - Non-European races with random weather on proper GP tracks that are also not too long
+- Tracks:
+Interlagos
+Kyalami
+Laguna Seca
+Long Beach
+Road Atlanta
+Sepang
+Suzuka
+Tsukuba
+Virginia
+Watkins Glen
+ 
+2003 Q1 BMW Sport Endurance Championship
 - Description:
   - Longer races on longer tracks with random weather (tendency to rain)
 - Tracks:
+Bathurst/Mount Panorama
+Daytona
+Fuji
+Monza
+Spa
+Le Mans
+Isle of Man
+Nürburgring/Nordschleife1
+Sebring
+Silverstone
+
 -------------------------------------
 - About all interesting Tracks:
   - Asia / Oceania championship
