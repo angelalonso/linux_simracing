@@ -1,0 +1,20 @@
+//Mini Cooper Transmission - 1968 and 1969
+[GEAR_RATIOS]
+//First gear
+ratio=(13,32)   //2.57
+//Second gear
+ratio=(17,28) //1.72
+// Third gear
+ratio=(20,24) //1.25
+//Fourth gear
+ratio=(23,22) //1.1
+
+     
+[FINAL_DRIVE]
+bevel=(22,23)   //
+ratio=(15, 62)  // 4.13
+ratio=(16, 63) // 3.94
+ratio=(17, 64) // 3.76
+ratio=(17, 62) // 3.65
+ratio=(18, 62) // 3.44
+

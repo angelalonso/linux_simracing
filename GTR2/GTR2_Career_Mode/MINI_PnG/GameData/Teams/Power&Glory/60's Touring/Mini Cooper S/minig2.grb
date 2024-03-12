@@ -1,0 +1,20 @@
+//Mini Cooper Transmission.
+[GEAR_RATIOS]
+//First gear
+ratio=(1000,3627)    //3.627
+//Second gear
+ratio=(1000,2172) //2.172
+// Third gear
+ratio=(1000,1412) //1.412
+//Fourth gear
+ratio=(1000,1000) //1.0
+
+     
+[FINAL_DRIVE]
+bevel=(1,1)   // 1.00
+ratio=(1000, 4736)  // 4.736
+ratio=(1000, 4133)  // 4.133
+ratio=(1000, 3765)  // 3.765
+ratio=(1000, 3440) // 3.440
+
+
