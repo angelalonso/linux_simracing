@@ -95,11 +95,21 @@ This mega-secret track has a bit of history, but it's all in the virtual realm. 
 
 You'll learn the most crucial thing when driving a slow car fast: maintaining momentum. That means minimizing braking as much as possible and maximizing your turn exits to avoid excessive friction that slows the car down.
 
-You should probably also try your hand at two techniques:
-- Trail braking (https://www.youtube.com/watch?v=tvcuGoVhpxw)
-- Use the whole track
-- Look way ahead
-
+You should probably also try your hand at some of the most important techniques. For maximum effectiveness, you should focus on one technique only each time, until they become natural:
+- Get consistent.
+  - For this, you should probably only get to the track for a minimum of 15 laps before pitting again.
+  - Warm your wheels up, and progressively improve your lap times as the fuel weight gets lower and lower.
+  - Try to get almost the same lap time for 5-6 consecutive laps (not necessarily fast laps)
+- Use the whole track, meaning, for instance, that you get to the leftmost border before a right turn, and then go back to the leftmost border on your way out to make the turn as open as possible.
+  - Find a reference for your car view to the border of the track.
+  - Use your steering wheel's feedback to find out where the wheels are actually outside of the track (if your wheel supports it)
+- Look way ahead, as explained here:
+  - https://youtu.be/WO-URMCm7SI?t=60
+- Trail braking, check the following videos out:
+  - https://www.youtube.com/watch?v=tvcuGoVhpxw
+  - https://www.youtube.com/watch?v=eUdaWbr1KB4
+  - https://www.youtube.com/watch?v=hxIanjfmGDY
+  
 Now, onto the track itself...
 
 Turn 1 - right: 
@@ -108,11 +118,15 @@ Turn 1 - right:
   
 Turn 2 - right: 
 
-    Tighter, so ease off the gas, maybe downshift. Watch your exit.
+    Tighter, so ease off the gas, maybe downshift. 
+    Watch your exit.
   
 Turns 3, 4 - S-bend after the bridge: 
 
-    Only spot where you'll need to brake. Start braking just after the bridge ends, hug the apex, then aim for a late apex on the left turn. Mind not to run wide entering the tunnel.
+    Only spot where you'll need to brake. Start braking just after the bridge ends, hug the apex, then aim for a late apex on the left turn. 
+    This is the best turn to practice using the whole track and trail braking.
+    Mind not to run wide entering the tunnel.
+    
   
 Turn 5 - right: 
 
