@@ -1,6 +1,6 @@
 # Episode 1
 
-The year is 1998.
+The year is 1999.
 
 Your phone rings loudly, and it's Richard, one of your karting buddies.
 
@@ -36,22 +36,22 @@ You see, you are no seasoned racer. In fact, you have never even set foot on a r
 But also know that this opportunity is too precious to pass up. With a determined glint in your eye, you make a decision.
 
 Rather than diving headfirst into the championship without any experience, you resolve to hone your skills first. It may be a good idea to give the most seasoned guy from your go-karting days, Tom, a call. You also decide to not tell him about the whole Rich story.
-""Ah, you've struck gold, mate! How on earth did you manage to nab such an opportunity? Ah, never mind, I probably don't want to know – likely involves a story with an older lady or something equally wild.
+    Ah, you've struck gold, mate! How on earth did you manage to nab such an opportunity? Ah, never mind, I probably don't want to know – likely involves a story with an older lady or something equally wild.
 
-But hey, forget all that! What's important now is that you've called me up. Let's get down to business and start with the basics. Have you had a chance to take that car out for a spin yet? Oh, wait, you just got it, didn't you? Well, no worries, mate, we'll need to rack up some miles before the Championship kicks off anyway.
+    But hey, forget all that! What's important now is that you've called me up. Let's get down to business and start with the basics. Have you had a chance to take that car out for a spin yet? Oh, wait, you just got it, didn't you? Well, no worries, mate, we'll need to rack up some miles before the Championship kicks off anyway.
 
-I happen to know a few lads who've got access to a top-secret track – perfect for newbies like yourself. And if you impress there, who knows? Maybe you'll be strutting your stuff at Goodwood before you know it.
+    I happen to know a few lads who've got access to a top-secret track – perfect for newbies like yourself. And if you impress there, who knows? Maybe you'll be strutting your stuff at Goodwood before you know it.
 
-But, you know the deal – nothing comes for free. I want to be your race engineer for the entire season, and trust me, you'll want my expertise, so I'll need the odd joyride in that motor when the mood strikes me."
+    But, you know the deal – nothing comes for free. I want to be your race engineer for the entire season, and trust me, you'll want my expertise, so I'll need the odd joyride in that motor when the mood strikes me."
 
 ------------------------------------------
-"Now, onto the High Speed Ring.
+    Now, onto the High Speed Ring.
 
-This track's got a bit of history, even if it's all in the virtual realm. But hey, aren't we all virtual in a way?
+    This track's got a bit of history, even if it's all in the virtual realm. But hey, aren't we all virtual in a way?
 
-Right, let's get into the nitty-gritty of driving a slow car fast: momentum. That means braking as little as possible and maximizing your turn exits to avoid dragging the motor down.
+    Right, let's get into the nitty-gritty of driving a slow car fast: momentum. That means braking as little as possible and maximizing your turn exits to avoid dragging the motor down.
 
-You'll want to try your hand at some key techniques. To get the most out of it, focus on nailing one thing at a time until it's second nature:
+    You'll want to try your hand at some key techniques. To get the most out of it, focus on nailing one thing at a time until it's second nature:
 
     First off, consistency.
         Aim for at least 15 laps before pitting again.
@@ -66,24 +66,20 @@ You'll want to try your hand at some key techniques. To get the most out of it, 
     Get practicing with trail braking.
         Watch these videos for pointers: [links to videos].
 
-Now, let's tackle the track itself...
+    Now, let's tackle the track itself...
 
-Turn 1 - right:
-
+    Turn 1 - right:
     No need for brakes; maybe just ease off the gas a bit on exit to prevent overshooting, depending on your setup.
 
-Turn 2 - right:
-
+    Turn 2 - right:
     Bit tighter; ease off the gas, maybe drop a gear. Keep an eye on your exit.
 
-Turns 3 and 4 - S-bend after the bridge:
-
+    Turns 3 and 4 - S-bend after the bridge:
     Braking just after the bridge ends. Hug the apex, then aim for a late apex on the left turn.
     This is prime time to practice using the full track and trail braking.
     Be careful not to run wide when you're entering the tunnel.
 
-Turn 5 - right:
-
+    Turn 5 - right:
     Just lift off the gas a bit to prevent overshooting on exit.
 
 Given the track layout and the Mini's characteristics, you should focus your setup on only loading the amount of gas you need, find a comfortable brake balance, and perhaps experiment with tire pressures.
