@@ -43,7 +43,7 @@ Rather than diving headfirst into the championship without any experience, you r
 
     But hey, let's focus! What's important now is that you've called me up. Let's get down to business and start with the basics. 
 
-![Tom, as perceived by AI](imgs/tom_1.jpeg)
+![Tom, as perceived by AI](imgs/tom_1.jpg)
 
     Have you had a chance to take that car out for a spin yet? Oh, wait, you just got it, didn't you? 
     Well, no worries, mate, we'll need to rack up some miles before the Championship kicks off anyway.
@@ -63,6 +63,8 @@ Rather than diving headfirst into the championship without any experience, you r
 
     You'll want to try your hand at some key techniques. To get the most out of it, focus on nailing one thing at a time until it's second nature:
 
+![A GT race driver, as perceived by AI](imgs/gt_race_driver.jpg)
+
     First off, consistency.
         Aim for at least 15 laps before pitting again.
         Warm up your tires and improve your lap times gradually as the fuel runs down.
@@ -78,6 +80,7 @@ Rather than diving headfirst into the championship without any experience, you r
 
     Now, let's tackle the track itself...
 
+![A race track, as perceived by AI](imgs/racetrack_1.jpg)
     Turn 1 - right:
     No need for brakes; maybe just ease off the gas a bit on exit to prevent overshooting, depending on your setup.
 
