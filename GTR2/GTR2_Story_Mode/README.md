@@ -74,13 +74,18 @@ Rather than diving headfirst into the championship without any experience, you r
         Use visual cues to see how close you are to the track edge.
         Use the feedback from your steering wheel to see if your wheels are off the track (if your wheel supports that, like).
     Look ahead.
-        Check out this video for some tips: [link to video].
+        Check out this video for some tips:
+            - https://youtu.be/WO-URMCm7SI?t=60
     Get practicing with trail braking.
-        Watch these videos for pointers: [links to videos].
+        Watch these videos for pointers:
+            - https://www.youtube.com/watch?v=tvcuGoVhpxw
+            - https://www.youtube.com/watch?v=eUdaWbr1KB4
+            - https://www.youtube.com/watch?v=hxIanjfmGDY
 
     Now, let's tackle the track itself...
 
 ![A race track, as perceived by AI](imgs/racetrack_1.jpg)
+
     Turn 1 - right:
     No need for brakes; maybe just ease off the gas a bit on exit to prevent overshooting, depending on your setup.
 
@@ -95,21 +100,71 @@ Rather than diving headfirst into the championship without any experience, you r
     Turn 5 - right:
     Just lift off the gas a bit to prevent overshooting on exit.
 
-Given the track layout and the Mini's characteristics, you should focus your setup on only loading the amount of gas you need, find a comfortable brake balance, and perhaps experiment with tire pressures.
+Given the track layout and the car you have, you decide to focus your setup on only loading the amount of gas you need, find a comfortable brake balance, and perhaps experiment with tire pressures.
 
-One last thing: You might notice I'm pretty fussy about brake temperatures. When I start panicking, I'll be yelling at you to cool them brakes down. Has a bit to do with me old man, how he passed away and all. Ignore the shouting but keep them brakes below 500 degrees, please."
+    One last thing: You might notice I'm pretty fussy about brake temperatures. 
+    
+    When I start panicking, I'll be yelling at you to cool them brakes down. 
+    
+    Has a bit to do with me old man, how he passed away and all. Ignore the shouting but keep them brakes below 500 degrees, please.
 
 
 When the day arrives, you literally slept 3 hours maximum. There is no pressure for results, but it is your first time on a race track and you know there is a lot of basic stuff you will be learning.
 
 
-Click on...
-
 ------------------------------------------
-That was an interesting test, and you know what I mean by interesting.
+You could only descrube your first test as interesting.  
 
 It's going to be hard to focus on the next test track, but you must, because Goodwood is a perfect fit for that Mini. 
 
+    Your car's a gem, did you clock that? That's why those fancy collectors let us tear up some laps here at Goodwood. Bet you'll start hearing offers before we even head home.
+    
+    
+    Here's the scoop on running a lap at Goodwood in plain English:
+    
+    Turn 1 – Madgwick:
+    
+        Start on the left side of the track, brake gently along the edge or don't brake at all.
+        As you turn, focus on carrying speed through the bend.
+        Aim for two apex points, adjusting your line depending on your car's setup.
+        After the bend, keep left in the dry, center in the wet along the straight.
+    
+    Turn 2 – Fordwater:
+    
+        Turn from the left side, smoothly steering due to high speed.
+        In the wet, avoid a puddle on the apex by running wide.
+        After the turn, let the car drift to the left, keeping on power and left for stability.
+    
+    Turn 3 - St Mary’s:
+    
+        Brake gently before the slight crest, aiming for the right apex.
+        Get back on the power early, moving to the middle of the track for exit.
+        Brake short and firm for St Mary's part two, aiming for the apex on the right.
+    
+    Turn 4 - Lavant:
+    
+        Brake halfway between the brake and 50 board, aiming for the apex.
+        Start power after the first apex, avoiding painted kerbs in the wet.
+        Unwind steering and run fully left next to the green arrow board.
+    
+    Turn 5 - Kink:
+    
+        Smoothly move right, using boards to guide through the kink.
+        Aim for the number 50 board for braking into Woodcote corner.
+    
+    Turn 6 – Woodcote:
+    
+        Brake at the 200 or brake board, easing off to keep left.
+        Add more lock at the second red chevron for the apex on the right.
+        Stay on power in third gear up to the chicane braking point.
+    
+    Turn 7 – Chicane:
+    
+        Brake short and firm, choosing a late or early turn into the chicane.
+        Unwind steering after the left wall, feeding in power progressively along the right side of the track.
+    
+    In terms of setup, the same as on High Speed Ring should be a good base, but you have to play with it and find out.
+   
 ------------------------------------------
 ------------------------------------------
 ------------------------------------------
@@ -120,7 +175,7 @@ It's going to be hard to focus on the next test track, but you must, because Goo
     04 May Donington
     17 May Brands Hatch
     25 May Oulton Park
-    14 June Donington
+    14 June Isle of Man instead of Donington again
     28 June Croft
     26 July Snetterton
     02 August Thruxton
@@ -130,132 +185,7 @@ It's going to be hard to focus on the next test track, but you must, because Goo
     20 September Silverstone
 
 -------------------------------
-Welcome to High Speed Ring
-
-This mega-secret track has a bit of history, but it's all in the virtual realm. We're all virtual and all, aren't we?
-
-You'll learn the most crucial thing when driving a slow car fast: momentum. That means braking as little as possible and opening your exits to avoid excessive friction that slows the car down.
-
-In short: you must be smooth, smooth braking, smooth turning and, sometimes, even smooth on the gas.
-
-You should probably also try your hand at some of the most important techniques. For maximum effectiveness, you should focus on one technique only each time, until they become natural:
-- Get consistent.
-  - For this, you should probably only get to the track for a minimum of 15 laps before pitting again.
-  - Warm your wheels up, and progressively improve your lap times as the fuel weight gets lower and lower.
-  - Try to get almost the same lap time for 5-6 consecutive laps (not necessarily fast laps)
-- Use the whole track, meaning, for instance, that you get to the leftmost border before a right turn, and then go back to the leftmost border on your way out to make the turn as open as possible.
-  - Find a reference for your car view to the border of the track.
-  - Use your steering wheel's feedback to find out where the wheels are actually outside of the track (if your wheel supports it)
-- Look way ahead, as explained here:
-  - https://youtu.be/WO-URMCm7SI?t=60
-- Trail braking, check the following videos out:
-  - https://www.youtube.com/watch?v=tvcuGoVhpxw
-  - https://www.youtube.com/watch?v=eUdaWbr1KB4
-  - https://www.youtube.com/watch?v=hxIanjfmGDY
- 
-Now, onto the track itself...
-
-Turn 1 - right:
-
-    No brakes needed, maybe ease off the gas on exit to avoid overshooting, depending on your setup.
- 
-Turn 2 - right:
-
-    Tighter, so ease off the gas, maybe downshift.
-    Watch your exit.
- 
-Turns 3, 4 - S-bend after the bridge:
-
-    Only spot where you'll need to brake. Start braking just after the bridge ends, hug the apex, then aim for a late apex on the left turn.
-    This is the best turn to practice using the whole track and trail braking.
-    Mind not to run wide entering the tunnel.
-   
- 
-Turn 5 - right:
-
-    Just lift slightly to prevent overshooting on exit.
-
-
-Now, about that mini...
-
-Driving an Austin Mini Cooper around Goodwood Circuit requires a combination of skill, precision, and understanding of the car's characteristics. Here are some tips to help you drive the Mini Cooper fast around Goodwood:
-
-    Smooth Driving: The Mini Cooper is a lightweight car with responsive handling. Smooth driving inputs are crucial to maintain momentum through corners and straights.
-
-    Braking Points: Identify the braking points for each corner. Goodwood has several fast corners where you'll need to brake early and progressively to avoid locking up the wheels.
-
-    Cornering Technique: Use a late apex approach for most corners to maximize exit speed. The Mini Cooper has excellent agility, so you can carry good speed through the corners. Be careful not to oversteer, especially in tighter corners like Fordwater and St. Mary's.
-
-    Throttle Control: The Mini Cooper's engine is relatively small, so precise throttle control is essential for maintaining speed, especially when exiting corners. Smoothly apply the throttle to avoid wheelspin and maintain traction.
-
-    Use the Curbs: Goodwood has some curbs that you can use to your advantage, especially in faster corners like Madgwick and Lavant. However, be cautious not to hit them too aggressively, as it can upset the car's balance.
-
-    Learn the Track: Familiarize yourself with the layout of the Goodwood Circuit. Practice different lines and braking points to find the optimal racing line for your Mini Cooper.
-
-    Manage Momentum: The Mini Cooper's lightweight design means it's sensitive to changes in speed. Focus on carrying momentum through corners rather than relying solely on brute acceleration on straights.
-
-    Stay Smooth and Consistent: Consistency is key to setting fast lap times. Avoid sudden movements or aggressive inputs that can unsettle the car. Smooth and consistent driving will help you maintain control and extract the most performance from the Mini Cooper.
-
-    Practice: Like any racing endeavor, practice is crucial. Spend time on the track to refine your driving technique, experiment with different setups, and gradually improve your lap times.
-
-By following these tips and practicing regularly, you can drive the Austin Mini Cooper fast around Goodwood Circuit and enjoy the unique driving experience that this iconic car and historic track offer.
-
-
-
-Given the track layout and the limitations of the Mini, your setup should aim to have just the fuel you need, find a brake balance you're comfortable with, and perhaps experiment with tire pressures.
-
-One more thing: You'll find I'm quite particular about brake temperatures. Whenever I ask, just make sure they stay below 500 degrees. Even if I scream. "Cool brakes, your brakes are overheating" is also the last  thing my father said before he passed away, so don't judge me.
-
-Now, dive into the championship named "HSR test", and then [click here when you are done, regardless of how it goes, to have a go at Goodwood](./2877.md)
 -------------------------------
-Your car's a gem, did you clock that? That's why those fancy collectors let us tear up some laps here at Goodwood. Bet you'll start hearing offers before we even head home.
-
-
-Here's the scoop on running a lap at Goodwood in plain English:
-
-Turn 1 – Madgwick:
-
-    Start on the left side of the track, brake gently along the edge or don't brake at all.
-    As you turn, focus on carrying speed through the bend.
-    Aim for two apex points, adjusting your line depending on your car's setup.
-    After the bend, keep left in the dry, center in the wet along the straight.
-
-Turn 2 – Fordwater:
-
-    Turn from the left side, smoothly steering due to high speed.
-    In the wet, avoid a puddle on the apex by running wide.
-    After the turn, let the car drift to the left, keeping on power and left for stability.
-
-Turn 3 - St Mary’s:
-
-    Brake gently before the slight crest, aiming for the right apex.
-    Get back on the power early, moving to the middle of the track for exit.
-    Brake short and firm for St Mary's part two, aiming for the apex on the right.
-
-Turn 4 - Lavant:
-
-    Brake halfway between the brake and 50 board, aiming for the apex.
-    Start power after the first apex, avoiding painted kerbs in the wet.
-    Unwind steering and run fully left next to the green arrow board.
-
-Turn 5 - Kink:
-
-    Smoothly move right, using boards to guide through the kink.
-    Aim for the number 50 board for braking into Woodcote corner.
-
-Turn 6 – Woodcote:
-
-    Brake at the 200 or brake board, easing off to keep left.
-    Add more lock at the second red chevron for the apex on the right.
-    Stay on power in third gear up to the chicane braking point.
-
-Turn 7 – Chicane:
-
-    Brake short and firm, choosing a late or early turn into the chicane.
-    Unwind steering after the left wall, feeding in power progressively along the right side of the track.
-
-In terms of setup, the same as on High Speed Ring should be a good base, but you have to play with it and find out.
-   
 - [Click here when you're done, regardless of your result.](./xxxx.md)
 -------------------------------------------------------
 Now, this is where the real deal kicks in... still game?
