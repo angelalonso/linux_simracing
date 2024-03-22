@@ -31,18 +31,28 @@ However, doubts begin to creep in. The car is likely registered in Rich's name, 
 ------------------------------------------
 Excitement mingles with apprehension as you contemplate the daunting challenge ahead.
 
-You see, you are no seasoned racer. In fact, you have never even set foot on a racing track other than your local go-Kart ring before. The idea of competing against seasoned veterans in a high-stakes championship seems both exhilarating and terrifying.
+You see, you are no seasoned racer. In fact, you have never even set foot on a racing track other than your local go-Kart ring before. 
+The idea of competing against seasoned veterans in a high-stakes championship seems both exhilarating and terrifying.
 
 But also know that this opportunity is too precious to pass up. With a determined glint in your eye, you make a decision.
 
 Rather than diving headfirst into the championship without any experience, you resolve to hone your skills first. It may be a good idea to give the most seasoned guy from your go-karting days, Tom, a call. You also decide to not tell him about the whole Rich story.
-    Ah, you've struck gold, mate! How on earth did you manage to nab such an opportunity? Ah, never mind, I probably don't want to know – likely involves a story with an older lady or something equally wild.
 
-    But hey, forget all that! What's important now is that you've called me up. Let's get down to business and start with the basics. Have you had a chance to take that car out for a spin yet? Oh, wait, you just got it, didn't you? Well, no worries, mate, we'll need to rack up some miles before the Championship kicks off anyway.
+    Ah, you've struck gold, mate! How on earth did you manage to nab such an opportunity? 
+    Never mind, I probably don't want to know – likely involves a story with an older lady or something equally wild.
 
-    I happen to know a few lads who've got access to a top-secret track – perfect for newbies like yourself. And if you impress there, who knows? Maybe you'll be strutting your stuff at Goodwood before you know it.
+    But hey, let's focus! What's important now is that you've called me up. Let's get down to business and start with the basics. 
 
-    But, you know the deal – nothing comes for free. I want to be your race engineer for the entire season, and trust me, you'll want my expertise, so I'll need the odd joyride in that motor when the mood strikes me."
+![Tom, as perceived by AI](imgs/tom_1.jpeg)
+
+    Have you had a chance to take that car out for a spin yet? Oh, wait, you just got it, didn't you? 
+    Well, no worries, mate, we'll need to rack up some miles before the Championship kicks off anyway.
+
+    I happen to know a few lads who've got access to a nice track – perfect for newbies like yourself, and if you impress there, who knows? Maybe you'll be strutting your stuff at Goodwood before you know it.
+
+    But, you know the deal – nothing comes for free. 
+    I want to be your race engineer for the entire season, and trust me, you'll want my expertise, so I'll need the odd joyride in that motor when the mood strikes me.
+
 
 ------------------------------------------
     Now, onto the High Speed Ring.
