@@ -1,0 +1,47 @@
+<CHAMP_ICON>
+<CHAMP_TROPHY>
+<SET_FONT>
+FT_LISTBOX_InPit
+CAREER_001 2002 PRESEASON @ Hotlaps
+<SET_FONT>
+FT_LISTBOX_HEADER
+
+Rounds: 5
+
+<DRIVER_NAME>
+<CHAMP_STATUS>
+<BEST_FINISH>
+<DRIVER_POSITION>
+<TEAM_POSITION>
+<CATEGORY>
+<CAT_DRIVER_POSITION>
+<CAT_TEAM_POSITION>
+NEXT_ROUND>
+
+SET_FONT>
+FT_Standard_TEXT_SMALL
+Welcome to the first of the Career Championships.
+ 
+ - About these Career Championships:
+ 
+ They are setup as a progression. Each Championship should gradually either increase difficulty, or add elements of complexity to practice (e.g.: Pit stops, weather).
+ As an example, the first championships use a FWD Alfa Romeo 147 GT-R, then moves on to use a RWD BMW E46 M3.
+
+No one controls this, but you should try to only move on to the next championship after you won your current championship.
+ 
+ - Description of this Championship:
+ 
+ The races are 1-lap long, so you will need to get good at:
+ - Making a hotlap that gets you pole position.
+ - Standing Starts.
+ - probably setting up your car
+ 
+ This first Championship uses the Alfa Romeo 147 GT-R car, on several short Circuits, on perfect weather.
+ 
+ 
+ There are five races:
+ - High Speed Ring
+ - Monza Junior
+ - Motegi Twin Ring West
+ - Brands Hatch Indy
+ - Suzuka East

@@ -1,0 +1,60 @@
+//-Right/+Left, -Down/+Up, -FORWARD/+BACK  
+
+
+HDVehicle=Mini_Cooper.hdc
+Graphics=Mini_Cooper.cas
+GenString=10811
+Sounds=Mini_Cooper.aud
+HeadPhysics=headphysics.hed
+
+Eyepoint=(-0.326, 1.050, 0.160)    
+CameraTarget=(0.000, 1.000, 0.330)
+MaxSeatRear=0.0
+MaxSeatFront=-0.0
+MaxSeatUp=0.00
+MaxSeatDown=-0.00
+FrontWheelsInCockpit=0
+
+SteeringWheelAxis=(0.0,0.1736,0.9848)
+SteeringWheelType=5
+ExternalDriverPosition=(-0.248, 0.250, -0.030)
+FirstPersonDriverPosition=(-0.258, 0.085, -0.130)
+LeftSideSteering=0
+ShiftStickPosition=(0.00, 0.18, -0.18)
+
+ClutchPedalPosition=(-0.54, 0.25, -0.130)
+BrakePedalPosition=(-0.36, 0.25, -0.13)
+AcceleratorPedalPosition=(-0.36, 0.15, -0.13)
+LeftLegBendAngle=15.0
+RightLegBendAngle=-15.0
+
+SpeedometerRange=(0.0, 168.981, 215.0, 300.0) //145.00
+SpeedometerNeedle=(0.95, 0.95)
+TachometerRange=(0.0, 10500.0, 315.0, 430.0)
+TachometerNeedle=(0.95, 0.95)
+OilTempRange=(120.0, 300.0, 225.0, 315.0)
+OilTempNeedle=(0.95, 0.95)
+WaterTempRange=(120.0, 300.0, 225.0, 315.0)
+WaterTempNeedle=(0.95, 0.95)
+OilPressureRange=(0.0, 68.39, 225.0, 315.0)
+OilPressureNeedle=(0.95, 0.95)
+FuelPressureRange=(0.0, 8.5, 225.0, 315.0)
+FuelPressureNeedle=(0.95, 0.95)
+FuelVolumeRange=(0.0, 50.0, 296.6, 244)
+FuelVolumeNeedle=(0.95, 0.95)
+
+FuelRigType=2
+FuelCapPositionR=(-0.71, 0.60, 0.97)
+FuelCapAngleR=-41.0
+
+Number=65024
+Team="Kristensen"
+PitGroup="Kristensen"
+Driver="Henrik Kristensen"
+Driver1="Henrik Kristensen"
+Driver2="Henrik Kristensen"
+Description="Austin Mini Cooper"
+Engine="Austin"
+Manufacturer="Mini_Cooper"
+classes="Shift_cars, Mini_Cooper, MiniCooper"
+

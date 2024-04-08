@@ -1,0 +1,360 @@
+- talent:
+  - car_id: 65001
+    name: Andrea
+    short: A.
+    surname: Murphy
+    nat_code: "GBR"
+    nationality: British
+    livery: "01"
+    year: 1998
+- talent:
+  - car_id: 65002
+    name: Adrien
+    short: A.
+    surname: Brown
+    nat_code: "GBR"
+    nationality: British
+    livery: "02"
+    year: 1998
+- talent:
+  - car_id: 65003
+    name: Emily
+    short: E.
+    surname: Evans
+    nat_code: "GBR"
+    nationality: British
+    livery: "03"
+    year: 1998
+- talent:
+  - car_id: 65004
+    name: Frank
+    short: F.
+    surname: Dickinson
+    nat_code: "GBR"
+    nationality: British
+    livery: "04"
+    year: 1998
+- talent:
+  - car_id: 65005
+    name: James
+    short: J.
+    surname: Jensen
+    nat_code: "GBR"
+    nationality: British
+    livery: cream
+    year: 1998
+- talent:
+  - car_id: 65006
+    name: Mark
+    short: M.
+    surname: Anderson
+    nat_code: "GBR"
+    nationality: British
+    livery: ferrari
+    year: 1998
+- talent:
+  - car_id: 65007
+    name: Michael
+    short: M.
+    surname: Wylendhal
+    nat_code: "GBR"
+    nationality: British
+    livery: green
+    year: 1998
+- talent:
+  - car_id: 65008
+    name: Oliver
+    short: O.
+    surname: Otherfield
+    nat_code: "GBR"
+    nationality: British
+    livery: grey
+    year: 1998
+- talent:
+  - car_id: 65009
+    name: Philippa
+    short: P.
+    surname: Jefferson
+    nat_code: "GBR"
+    nationality: British
+    livery: gulf
+    year: 1998
+- talent:
+  - car_id: 65010
+    name: Raph
+    short: R.
+    surname: Dogherty
+    nat_code: "GBR"
+    nationality: British
+    livery: martini
+    year: 1998
+- talent:
+  - car_id: 65011
+    name: Sophie
+    short: S.
+    surname: Allison
+    nat_code: "GBR"
+    nationality: British
+    livery: mclaren
+    year: 1998
+- talent:
+  - car_id: 65012
+    name: Sylvain
+    short: S.
+    surname: Sussex
+    nat_code: "GBR"
+    nationality: British
+    livery: "12" 
+    year: 1998
+- talent:
+  - car_id: 65013
+    name: Thomas
+    short: T.
+    surname: Shepherd
+    nat_code: "GBR"
+    nationality: British
+    livery: redbull
+    year: 1998
+- talent:
+  - car_id: 65014
+    name: Sam
+    short: S.
+    surname: Roddington
+    nat_code: "GBR"
+    nationality: British
+    livery: rothmans
+    year: 1998
+- talent:
+  - car_id: 65015
+    name: Timothy
+    short: T.
+    surname: Shuttleton
+    nat_code: "GBR"
+    nationality: British
+    livery: skyblue
+    year: 1998
+- talent:
+  - car_id: 65016
+    name: Maicon
+    short: M.
+    surname: da Silva
+    nat_code: "BRA"
+    nationality: Brazilian
+    livery: white
+    year:
+- talent:
+  - car_id: 65017
+    name: Hwang
+    short: H.
+    surname: Ying
+    nat_code: "CHN"
+    nationality: Chinese
+    livery: yellow
+    year:
+- talent:
+  - car_id: 65018
+    name: Pierre
+    short: P.
+    surname: Dubois
+    nat_code: "FRA"
+    nationality: French
+    livery: yellow
+    year:
+- talent:
+  - car_id: 65019
+    name: Jackson
+    short: J.
+    surname: Smith
+    nat_code: "AUS"
+    nationality: Australian
+    livery: white
+    year:
+- talent:
+  - car_id: 65020
+    name: Manuel
+    short: M.
+    surname: Fernandez
+    nat_code: "ARG"
+    nationality: Argentinian
+    livery: skyblue
+    year:
+- talent:
+  - car_id: 65021
+    name: Lukas
+    short: L.
+    surname: Schmidt
+    nat_code: "AUT"
+    nationality: Austrian
+    livery: rothmans
+    year:
+- talent:
+  - car_id: 65022
+    name: Thierry
+    short: T.
+    surname: Leclercq
+    nat_code: "BEL"
+    nationality: Belgian
+    livery: redbull
+    year:
+- talent:
+  - car_id: 65023
+    name: Carlos
+    short: C.
+    surname: Santos
+    nat_code: "BRA"
+    nationality: Brazilian
+    livery: orange
+    year:
+- talent:
+  - car_id: 65024
+    name: Henrik
+    short: H.
+    surname: Kristensen
+    nat_code: "DEN"
+    nationality: Danish
+    livery: mclaren
+    year:
+- talent:
+  - car_id: 65025
+    name: Angela
+    short: A.
+    surname: Alonso
+    nat_code: "ESP"
+    nationality: Spanish
+    livery: martini
+    year:
+- talent:
+  - car_id: 65026
+    name: Juan Pablo
+    short: J.P.
+    surname: Morales
+    nat_code: "ESP"
+    nationality: Spanish
+    livery: gulf
+    year:
+- talent:
+  - car_id: 65027
+    name: Ari
+    short: A.
+    surname: Makkinen
+    nat_code: "FIN"
+    nationality: Finnish
+    livery: grey
+    year:
+- talent:
+  - car_id: 65028
+    name: Mikko
+    short: M.
+    surname: Lehtonen
+    nat_code: "FIN"
+    nationality: Finnish
+    livery: green
+    year:
+- talent:
+  - car_id: 65029
+    name: Therese
+    short: T.
+    surname: Dubois
+    nat_code: "FRA"
+    nationality: French
+    livery: ferrari
+    year:
+- talent:
+  - car_id: 65030
+    name: Henrietta
+    short: H.
+    surname: Schmidt
+    nat_code: "GER"
+    nationality: German
+    livery: cream
+    year:
+- talent:
+  - car_id: 65031
+    name: Juergen
+    short: J.
+    surname: Mueller
+    nat_code: "GER"
+    nationality: German
+    livery: castrol
+    year:
+- talent:
+  - car_id: 65032
+    name: Michael
+    short: M.
+    surname: Pohler
+    nat_code: "GER"
+    nationality: German
+    livery: blue
+    year:
+- talent:
+  - car_id: 65033
+    name: Enzo
+    short: E.
+    surname: Pierino
+    nat_code: "ITA"
+    nationality: Italian
+    livery: black
+    year:
+- talent:
+  - car_id: 65034
+    name: Giovanna
+    short: G.
+    surname: Rossi
+    nat_code: "ITA"
+    nationality: Italian
+    livery: aston
+    year:
+- talent:
+  - car_id: 65035
+    name: Kimiko
+    short: K.
+    surname: Tanaka
+    nat_code: "JPN"
+    nationality: Japanese
+    livery: aston
+    year:
+- talent:
+  - car_id: 65036
+    name: Max
+    short: M.
+    surname: van den Berg
+    nat_code: "NLD"
+    nationality: Netherlander
+    livery: mclaren
+    year:
+- talent:
+  - car_id: 65037
+    name: Erik
+    short: E.
+    surname: Nordgaard
+    nat_code: "NOR"
+    nationality: Norwegian
+    livery: ferrari
+    year:
+- talent:
+  - car_id: 65038
+    name: Anders
+    short: A.
+    surname: Eriksson
+    nat_code: "SWE"
+    nationality: Swedish
+    livery: redbull
+    year:
+- talent:
+  - car_id: 65039
+    name: Viktoria
+    short: V.
+    surname: Petrova
+    nat_code: "UKR"
+    nationality: Ukrainian
+    livery: gulf
+    year:
+- talent:
+  - car_id: 65040
+    name: Tyler
+    short: T.
+    surname: Johnson
+    nat_code: "USA"
+    nationality: US-American
+    livery: black
+    year:

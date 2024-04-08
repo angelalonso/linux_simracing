@@ -1,0 +1,453 @@
+
+ SearchPath=<TEAMDIR>..\
+ SearchPath=<TEAMDIR>
+ SearchPath=<VEHDIR>
+
+//----------------------------------------
+
+ MASFile=Mini_Cooper_CPIT.GTR
+ MASFile=Mini_Cooper_Trackaholics.GTR
+ MASFile=STEX.GTR
+ MASFile=TALENT.GTR
+
+//----------------------------------------
+
+ReflectPlane=(0.0, -1.0, 0.0, 0.030)
+
+Instance=SLOT<ID>
+{
+  Moveable=True
+  <NOTSPIN>  MeshFile=Mini_Cooper_COLLISION.gmt Render=False CollTarget=True HATTarget=False LODIn=(0.0) LODOut=(0.0)
+
+  <LOW>  MeshFile=Mini_Cooper_SHADOW.gmt CollTarget=False HATTarget=False ShadowObject=(Static, Solid, 256, 256, AmbientShadA.dds) LODIn=(0.0) LODOut=(100.0)
+  <MED>  MeshFile=Mini_Cooper_SHADOW.gmt CollTarget=False HATTarget=False ShadowObject=(Static, Solid, 256, 256, AmbientShadA.dds) LODIn=(0.0) LODOut=(120.0)
+  <HIGH> MeshFile=Mini_Cooper_SHADOW.gmt CollTarget=False HATTarget=False ShadowObject=(Static, Solid, 256, 256, AmbientShadA.dds) LODIn=(0.0) LODOut=(140.0)
+  <MAX>  MeshFile=Mini_Cooper_SHADOW.gmt CollTarget=False HATTarget=False ShadowObject=(Static, Solid, 256, 256, AmbientShadA.dds) LODIn=(0.0) LODOut=(160.0)
+
+  <SPIN>   MeshFile=Mini_Cooper_CHASSIS_A.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.0)
+  <EXPO>   MeshFile=Mini_Cooper_CHASSIS_a.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.0) Reflect=True
+  <EXPO>   MeshFile=Mini_Cooper_EXPO_FLOOR.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00)
+
+   <LOW>   MeshFile=Mini_Cooper_CHASSIS_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(30.0)
+   <LOW>   MeshFile=Mini_Cooper_CHASSIS_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(30.0) LODOut=(400.0)
+
+   <MED>   MeshFile=Mini_Cooper_CHASSIS_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(40.0)
+   <MED>   MeshFile=Mini_Cooper_CHASSIS_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(40.0) LODOut=(500.0)
+
+   <HIGH>  MeshFile=Mini_Cooper_CHASSIS_a.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(50.0)
+   <HIGH>  MeshFile=Mini_Cooper_CHASSIS_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(50.0) LODOut=(600.0)
+
+   <MAX>   MeshFile=Mini_Cooper_CHASSIS_A.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(60.00)
+   <MAX>   MeshFile=Mini_Cooper_CHASSIS_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(60.0) LODOut=(700.0)
+
+  Actor=VEHICLE
+
+<NOTSPIN><DASHHIGH>  Instance=COCKPIT
+<NOTSPIN><DASHHIGH>  {
+<NOTSPIN><DASHHIGH>    Moveable=True
+<NOTSPIN><DASHHIGH>    MeshFile=Mini_Cooper_COCKPIT.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(2.0) ShadowReceiver=True
+<NOTSPIN><DASHHIGH>  }
+
+<NOTSPIN><DASHHIGH>  Instance=MOTEC
+<NOTSPIN><DASHHIGH>  {
+<NOTSPIN><DASHHIGH>    Moveable=True
+//<NOTSPIN><DASHHIGH>    MeshFile=Mini_Cooper_MOTEC_ADL2.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(2.0)
+<NOTSPIN><DASHHIGH>  }
+
+
+//----------------DRIVER-------------------
+
+  Instance=EXTDRIVERBODY
+  {
+   Moveable=True
+   <LOW>  MeshFile=EXT_DRIVER_STYLE<23>.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(30.0)
+   <MED>  MeshFile=EXT_DRIVER_STYLE<23>.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(40.0)
+   <HIGH> MeshFile=EXT_DRIVER_STYLE<23>.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(50.0)
+   <MAX>  MeshFile=EXT_DRIVER_STYLE<23>.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(60.0)
+ }
+
+  Instance=EXTDRIVERHEAD
+  {
+   Moveable=True
+   <LOW>  MeshFile=DRIVER_HELMET.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(30.0)
+   <MED>  MeshFile=DRIVER_HELMET.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(40.0)
+   <HIGH> MeshFile=DRIVER_HELMET.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(50.0)
+   <MAX>  MeshFile=DRIVER_HELMET.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(60.0)
+  }
+
+  Instance=FPDRIVER
+  {
+    Moveable=True
+   <NOTSPIN><DASHHIGH> MeshFile=INT_DRIVER_STYLE<23>.gmt CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(2.00)
+  }
+  
+  Instance=WHEEL
+  {
+    Moveable=True
+    <NOTSPIN><DASHHIGH> MeshFile=Mini_Cooper_STEERINGWHEEL_A.gmt CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(1.00)
+  }
+
+  Instance=WHEELEXT
+  {
+    Moveable=True
+   <SPIN> MeshFile=Mini_Cooper_STEERINGWHEEL_B.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(20.00)
+   <EXPO> MeshFile=Mini_Cooper_STEERINGWHEEL_B.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(20.00) Reflect=True
+ 
+   <NOTSPIN> MeshFile=Mini_Cooper_STEERINGWHEEL_B.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(20.00)
+  }
+
+  Instance=SEAT
+  {
+   Moveable=True
+  // <SPIN> MeshFile=Mini_Cooper_SEAT.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00)
+  // <EXPO> MeshFile=Mini_Cooper_SEAT.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00) Reflect=True
+
+  // <NOTSPIN> MeshFile=Mini_Cooper_SEAT.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(50.0)
+ }
+
+//----------------EFFECTS-------------------
+   
+  Instance=BACKFIRE
+  {
+    Moveable=True
+ //  <NOTSPIN> MeshFile=Mini_Cooper_BACKFIRE.GMT CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(500.0)
+  }
+
+Projector=HL_2_PLR
+{
+Moveable=True Active=False Pos=(0.0, 0.10, -77.2) Dir=(0.0, -0.5, -1.0) Radius=(28.0) LODOut=(400.0) Blend=(InvDstColor, One) Dyn=True Texmap=HL_2_PLR.DDS
+}
+
+Projector=HL_1_PLR
+{
+Moveable=True Active=False Pos=(-0.482, 0.10, -77.2) Dir=(0.0, -0.5, -1.0) Radius=(28.0) LODOut=(400.0) Blend=(InvDstColor, One) Dyn=True Texmap=HL_1_PLR.DDS
+}
+
+Projector=HL_2_AI
+{
+Moveable=True Active=False Pos=(0.0, 0.10, -14.0) Dir=(0.0, -1.0, 0.0) Radius=(10.0) LODOut=(400.0) Blend=(InvDstColor, One) Dyn=True Texmap=HL_2_AI.DDS
+}
+
+Projector=HL_1_AI
+{
+Moveable=True Active=False Pos=(-0.482, 0.10, -14.0) Dir=(0.0, -1.0, 0.0) Radius=(10.0) LODOut=(400.0) Blend=(InvDstColor, One) Dyn=True Texmap=HL_1_AI.DDS
+}
+
+//-----------------WHEELS--------------------
+
+  Instance=LFTIRE
+  {
+   Moveable=True
+  <SPIN> MeshFile=Mini_Cooper_WHEEL_LF_style<4>.GMT CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00)
+  <SPIN> MeshFile=Mini_Cooper_DISK_LF.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00)
+  <EXPO>  MeshFile=Mini_Cooper_WHEEL_LF_style<4>.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(200.0) Reflect=True
+  <EXPO>  MeshFile=Mini_Cooper_DISK_LF.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(200.0) Reflect=True
+  <SPIN> MeshFile=Mini_Cooper_tire_LF_style<5>.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00)
+  <EXPO>  MeshFile=Mini_Cooper_tire_LF_style<5>.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(200.0) Reflect=True
+
+   <LOW>  MeshFile=Mini_Cooper_WHEEL_LF_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(40.0)
+   <LOW>  MeshFile=Mini_Cooper_WHEEL_LF_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(40.00) LODOut=(400.0)
+
+   <MED>  MeshFile=Mini_Cooper_WHEEL_LF_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(50.0)
+   <MED>  MeshFile=Mini_Cooper_WHEEL_LF_style<4>.GMT CollTarget=False HATTarget=False  ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(50.00) LODOut=(500.0)
+
+   <HIGH> MeshFile=Mini_Cooper_WHEEL_LF_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(50.0)
+   <HIGH> MeshFile=Mini_Cooper_WHEEL_LF_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(50.00) LODOut=(600.0)
+
+   <MAX>  MeshFile=Mini_Cooper_WHEEL_LF_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.0) LODOut=(60.0)
+   <MAX>  MeshFile=Mini_Cooper_WHEEL_LF_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(60.00) LODOut=(700.0)
+
+   <LOW>  MeshFile=Mini_Cooper_tire_LF_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(40.0)
+   <LOW>  MeshFile=Mini_Cooper_tire_LF_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(40.00) LODOut=(500.0)
+
+   <MED>  MeshFile=Mini_Cooper_tire_LF_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(50.0)
+   <MED>  MeshFile=Mini_Cooper_tire_LF_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(50.00) LODOut=(500.0)
+
+   <HIGH> MeshFile=Mini_Cooper_tire_LF_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(50.0)
+   <HIGH> MeshFile=Mini_Cooper_tire_LF_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(50.00) LODOut=(600.0)
+
+   <MAX>  MeshFile=Mini_Cooper_tire_LF_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.0) LODOut=(60.0)
+   <MAX>  MeshFile=Mini_Cooper_tire_LF_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(60.00) LODOut=(700.0)
+
+   <HIGH> MeshFile=Mini_Cooper_DISK_LF.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(20.0)
+   
+   <MAX> MeshFile=Mini_Cooper_DISK_LF.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(30.0)
+   
+  }
+
+  Instance=LFSPINDLE
+  {
+   Moveable=True
+   <SPIN>  MeshFile=Mini_Cooper_SPINDLE_LF.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(200.0)
+   <EXPO>  MeshFile=Mini_Cooper_SPINDLE_LF.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(200.0) Reflect=True
+
+   <HIGH> MeshFile=Mini_Cooper_SPINDLE_LF.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(20.0)
+   <MAX>  MeshFile=Mini_Cooper_SPINDLE_LF.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(30.0)
+  }
+
+//---------------
+
+  Instance=RFTIRE
+  {
+   Moveable=True
+  <SPIN> MeshFile=Mini_Cooper_WHEEL_rf_style<4>.GMT CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00)
+  <SPIN> MeshFile=Mini_Cooper_DISK_rf.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00)
+  <EXPO>  MeshFile=Mini_Cooper_WHEEL_rf_style<4>.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(200.0) Reflect=True
+  <EXPO>  MeshFile=Mini_Cooper_DISK_rf.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(200.0) Reflect=True
+  <SPIN> MeshFile=Mini_Cooper_tire_rf_style<5>.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00)
+  <EXPO>  MeshFile=Mini_Cooper_tire_rf_style<5>.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(200.0) Reflect=True
+
+   <LOW>  MeshFile=Mini_Cooper_WHEEL_rf_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(40.0)
+   <LOW>  MeshFile=Mini_Cooper_WHEEL_rf_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(40.00) LODOut=(400.0)
+
+   <MED>  MeshFile=Mini_Cooper_WHEEL_rf_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(50.0)
+   <MED>  MeshFile=Mini_Cooper_WHEEL_rf_style<4>.GMT CollTarget=False HATTarget=False  ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(50.00) LODOut=(500.0)
+
+   <HIGH> MeshFile=Mini_Cooper_WHEEL_rf_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(50.0)
+   <HIGH> MeshFile=Mini_Cooper_WHEEL_rf_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(50.00) LODOut=(600.0)
+
+   <MAX>  MeshFile=Mini_Cooper_WHEEL_rf_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.0) LODOut=(60.0)
+   <MAX>  MeshFile=Mini_Cooper_WHEEL_rf_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(60.00) LODOut=(700.0)
+
+   <LOW>  MeshFile=Mini_Cooper_tire_rf_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(40.0)
+   <LOW>  MeshFile=Mini_Cooper_tire_rf_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(40.00) LODOut=(500.0)
+
+   <MED>  MeshFile=Mini_Cooper_tire_rf_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(50.0)
+   <MED>  MeshFile=Mini_Cooper_tire_rf_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(50.00) LODOut=(500.0)
+
+   <HIGH> MeshFile=Mini_Cooper_tire_rf_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(50.0)
+   <HIGH> MeshFile=Mini_Cooper_tire_rf_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(50.00) LODOut=(600.0)
+
+   <MAX>  MeshFile=Mini_Cooper_tire_rf_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.0) LODOut=(60.0)
+   <MAX>  MeshFile=Mini_Cooper_tire_rf_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(60.00) LODOut=(700.0)
+
+   <HIGH> MeshFile=Mini_Cooper_DISK_RF.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(20.0)
+   
+   <MAX> MeshFile=Mini_Cooper_DISK_RF.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(30.0)
+   
+  }
+
+  Instance=RFSPINDLE
+  {
+   Moveable=True
+   <SPIN>  MeshFile=Mini_Cooper_SPINDLE_RF.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(200.0)
+   <EXPO>  MeshFile=Mini_Cooper_SPINDLE_RF.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(200.0) Reflect=True
+
+   <HIGH> MeshFile=Mini_Cooper_SPINDLE_RF.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(20.0)
+   <MAX>  MeshFile=Mini_Cooper_SPINDLE_RF.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(30.0)
+  }
+
+//---------------
+ 
+  Instance=LRTIRE
+  {
+   Moveable=True
+  <SPIN> MeshFile=Mini_Cooper_WHEEL_lr_style<4>.GMT CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00)
+  <SPIN> MeshFile=Mini_Cooper_DISK_lr.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00)
+  <EXPO>  MeshFile=Mini_Cooper_WHEEL_lr_style<4>.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(200.0) Reflect=True
+  <EXPO>  MeshFile=Mini_Cooper_DISK_lr.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(200.0) Reflect=True
+  <SPIN> MeshFile=Mini_Cooper_tire_lr_style<5>.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00)
+  <EXPO>  MeshFile=Mini_Cooper_tire_lr_style<5>.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(200.0) Reflect=True
+
+   <LOW>  MeshFile=Mini_Cooper_WHEEL_lr_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(40.0)
+   <LOW>  MeshFile=Mini_Cooper_WHEEL_lr_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(40.00) LODOut=(400.0)
+
+   <MED>  MeshFile=Mini_Cooper_WHEEL_lr_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(50.0)
+   <MED>  MeshFile=Mini_Cooper_WHEEL_lr_style<4>.GMT CollTarget=False HATTarget=False  ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(50.00) LODOut=(500.0)
+
+   <HIGH> MeshFile=Mini_Cooper_WHEEL_lr_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(50.0)
+   <HIGH> MeshFile=Mini_Cooper_WHEEL_lr_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(50.00) LODOut=(600.0)
+
+   <MAX>  MeshFile=Mini_Cooper_WHEEL_lr_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.0) LODOut=(60.0)
+   <MAX>  MeshFile=Mini_Cooper_WHEEL_lr_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(60.00) LODOut=(700.0)
+
+   <LOW>  MeshFile=Mini_Cooper_tire_lr_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(40.0)
+   <LOW>  MeshFile=Mini_Cooper_tire_lr_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(40.00) LODOut=(500.0)
+
+   <MED>  MeshFile=Mini_Cooper_tire_lr_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(50.0)
+   <MED>  MeshFile=Mini_Cooper_tire_lr_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(50.00) LODOut=(500.0)
+
+   <HIGH> MeshFile=Mini_Cooper_tire_lr_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(50.0)
+   <HIGH> MeshFile=Mini_Cooper_tire_lr_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(50.00) LODOut=(600.0)
+
+   <MAX>  MeshFile=Mini_Cooper_tire_lr_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.0) LODOut=(60.0)
+   <MAX>  MeshFile=Mini_Cooper_tire_lr_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(60.00) LODOut=(700.0)
+
+   <HIGH> MeshFile=Mini_Cooper_DISK_LR.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(20.0)
+   
+   <MAX> MeshFile=Mini_Cooper_DISK_LR.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(30.0)
+   
+  }
+
+  Instance=LRSPINDLE
+  {
+   Moveable=True
+   <SPIN> MeshFile=Mini_Cooper_SPINDLE_LR.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00)
+   <EXPO> MeshFile=Mini_Cooper_SPINDLE_LR.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00) Reflect=True
+
+   <HIGH> MeshFile=Mini_Cooper_SPINDLE_LR.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(20.0)
+   <MAX>  MeshFile=Mini_Cooper_SPINDLE_LR.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(30.0)
+  }
+
+//---------------
+
+  Instance=RRTIRE
+  {
+   Moveable=True
+  <SPIN> MeshFile=Mini_Cooper_WHEEL_rr_style<4>.GMT CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00)
+  <SPIN> MeshFile=Mini_Cooper_DISK_rr.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00)
+  <EXPO>  MeshFile=Mini_Cooper_WHEEL_rr_style<4>.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(200.0) Reflect=True
+  <EXPO>  MeshFile=Mini_Cooper_DISK_rr.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(200.0) Reflect=True
+  <SPIN> MeshFile=Mini_Cooper_tire_rr_style<5>.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00)
+  <EXPO>  MeshFile=Mini_Cooper_tire_rr_style<5>.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(200.0) Reflect=True
+
+  <LOW>  MeshFile=Mini_Cooper_WHEEL_rr_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(40.0)
+   <LOW>  MeshFile=Mini_Cooper_WHEEL_rr_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(40.00) LODOut=(400.0)
+
+   <MED>  MeshFile=Mini_Cooper_WHEEL_rr_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(50.0)
+   <MED>  MeshFile=Mini_Cooper_WHEEL_rr_style<4>.GMT CollTarget=False HATTarget=False  ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(50.00) LODOut=(500.0)
+
+   <HIGH> MeshFile=Mini_Cooper_WHEEL_rr_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(50.0)
+   <HIGH> MeshFile=Mini_Cooper_WHEEL_rr_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(50.00) LODOut=(600.0)
+
+   <MAX>  MeshFile=Mini_Cooper_WHEEL_rr_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.0) LODOut=(60.0)
+   <MAX>  MeshFile=Mini_Cooper_WHEEL_rr_style<4>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(60.00) LODOut=(700.0)
+
+   <LOW>  MeshFile=Mini_Cooper_tire_rr_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(40.0)
+   <LOW>  MeshFile=Mini_Cooper_tire_rr_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(40.00) LODOut=(500.0)
+
+   <MED>  MeshFile=Mini_Cooper_tire_rr_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(50.0)
+   <MED>  MeshFile=Mini_Cooper_tire_rr_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(50.00) LODOut=(500.0)
+
+   <HIGH> MeshFile=Mini_Cooper_tire_rr_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.00) LODOut=(50.0)
+   <HIGH> MeshFile=Mini_Cooper_tire_rr_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(50.00) LODOut=(600.0)
+
+   <MAX>  MeshFile=Mini_Cooper_tire_rr_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(0.0) LODOut=(60.0)
+   <MAX>  MeshFile=Mini_Cooper_tire_rr_style<5>.GMT CollTarget=False HATTarget=False ShadowCaster=(True, Solid, 128, 128) ShadowReceiver=True LODIn=(60.00) LODOut=(700.0)
+
+   <HIGH> MeshFile=Mini_Cooper_DISK_RR.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(20.0)
+   
+   <MAX> MeshFile=Mini_Cooper_DISK_RR.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(30.0)
+   
+  }
+
+  Instance=RRSPINDLE
+  {
+   Moveable=True
+   <SPIN> MeshFile=Mini_Cooper_SPINDLE_RR.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00)
+   <EXPO> MeshFile=Mini_Cooper_SPINDLE_RR.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00) Reflect=True
+
+   <HIGH> MeshFile=Mini_Cooper_SPINDLE_RR.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(20.0)
+   <MAX>  MeshFile=Mini_Cooper_SPINDLE_RR.gmt CollTarget=False HATTarget=False LODIn=(0.00) LODOut=(30.0)
+  }
+
+//----------------------------------------= BUMPERS AND WINGS =----------------------------------------\\
+
+  Instance=FWING
+  {
+    Moveable=True
+   <SPIN> MeshFile=Mini_Cooper_hood_A.GMT CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00)
+   <EXPO> MeshFile=Mini_Cooper_hood_A.GMT CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00) Reflect=True
+
+   <LOW>  MeshFile=Mini_Cooper_hood_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(30.0)
+   <LOW>  MeshFile=Mini_Cooper_hood_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(30.0) LODOut=(400.0)
+
+   <MED>  MeshFile=Mini_Cooper_hood_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(40.0)
+   <MED>  MeshFile=Mini_Cooper_hood_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(40.0) LODOut=(500.0)
+
+   <HIGH> MeshFile=Mini_Cooper_hood_B.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(50.0)
+   <HIGH> MeshFile=Mini_Cooper_hood_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(50.0) LODOut=(600.0)
+
+   <MAX>  MeshFile=Mini_Cooper_hood_A.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(60.0)
+   <MAX>  MeshFile=Mini_Cooper_hood_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(60.0) LODOut=(700.0)
+  }
+
+  Instance=boot
+  {
+    Moveable=True
+   <SPIN> MeshFile=Mini_Cooper_boot_A.GMT CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00)
+   <EXPO> MeshFile=Mini_Cooper_boot_A.GMT CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.00) Reflect=True
+
+   <LOW>  MeshFile=Mini_Cooper_boot_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(30.0)
+   <LOW>  MeshFile=Mini_Cooper_boot_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(30.0) LODOut=(400.0)
+
+   <MED>  MeshFile=Mini_Cooper_boot_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(40.0)
+   <MED>  MeshFile=Mini_Cooper_boot_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(40.0) LODOut=(500.0)
+
+   <HIGH> MeshFile=Mini_Cooper_boot_B.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(50.0)
+   <HIGH> MeshFile=Mini_Cooper_boot_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(50.0) LODOut=(600.0)
+
+   <MAX>  MeshFile=Mini_Cooper_boot_A.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(60.0)
+   <MAX>  MeshFile=Mini_Cooper_boot_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(60.0) LODOut=(700.0)
+  }
+
+//--------------------------------------= ADDITIONAL DETACHABLES =--------------------------------------\\
+
+  Instance=DEBRIS0 // HEADLIGHT LEFT
+  {
+    Moveable=True
+
+   <NOTSPIN>  MeshFile=Mini_Cooper_LIGHT_LF.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(500.0) 
+   <NOTSPIN>  MeshFile=Mini_Cooper_LIGHT2_LF.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(500.0) 
+  } 
+
+  Instance=DEBRIS1 // HEADLIGHT RIGHT
+  {
+    Moveable=True
+
+   <NOTSPIN>  MeshFile=Mini_Cooper_LIGHT_RF.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(500.0) 
+   <NOTSPIN>  MeshFile=Mini_Cooper_LIGHT2_RF.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(500.0) 
+ }
+
+  Instance=DEBRIS2 // BRAKELIGHT LEFT
+  {
+    Moveable=True
+   <NOTSPIN>  MeshFile=Mini_Cooper_LIGHT_LR.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(500.0)
+  } 
+
+  Instance=DEBRIS3 // BRAKELIGHT RIGHT
+  {
+    Moveable=True
+   <NOTSPIN>  MeshFile=Mini_Cooper_LIGHT_RR.gmt CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(500.0)
+ }
+
+
+
+Instance=DEBRIS6 // REAR BUMPER
+  {
+    Moveable=True
+   <SPIN> MeshFile=Mini_Cooper_BUMPER_A.GMT CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.0)
+   <EXPO> MeshFile=Mini_Cooper_BUMPER_A.GMT CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.0) Reflect=True
+
+   <LOW>  MeshFile=Mini_Cooper_BUMPER_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(30.0)
+   <LOW>  MeshFile=Mini_Cooper_BUMPER_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(30.0) LODOut=(400.0)
+
+   <MED>  MeshFile=Mini_Cooper_BUMPER_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(40.0)
+   <MED>  MeshFile=Mini_Cooper_BUMPER_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(40.0) LODOut=(500.0)
+
+   <HIGH> MeshFile=Mini_Cooper_BUMPER_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(50.0)
+   <HIGH> MeshFile=Mini_Cooper_BUMPER_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(50.0) LODOut=(600.0)
+
+   <MAX>  MeshFile=Mini_Cooper_BUMPER_A.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(60.0)
+   <MAX>  MeshFile=Mini_Cooper_BUMPER_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(60.0) LODOut=(700.0)
+ }
+ 
+Instance=DEBRIS7 // front spliter
+  {
+    Moveable=True
+   <SPIN> MeshFile=Mini_Cooper_spliter_A.GMT CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.0)
+   <EXPO> MeshFile=Mini_Cooper_spliter_A.GMT CollTarget=False HATTarget=False LODIn=(0.0) LODOut=(200.0) Reflect=True
+
+   <LOW>  MeshFile=Mini_Cooper_spliter_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(30.0)
+   <LOW>  MeshFile=Mini_Cooper_spliter_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(30.0) LODOut=(400.0)
+
+   <MED>  MeshFile=Mini_Cooper_spliter_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(40.0)
+   <MED>  MeshFile=Mini_Cooper_spliter_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(40.0) LODOut=(500.0)
+
+   <HIGH> MeshFile=Mini_Cooper_spliter_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(50.0)
+   <HIGH> MeshFile=Mini_Cooper_spliter_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(50.0) LODOut=(600.0)
+
+   <MAX>  MeshFile=Mini_Cooper_spliter_A.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(0.0) LODOut=(60.0)
+   <MAX>  MeshFile=Mini_Cooper_spliter_b.GMT CollTarget=False HATTarget=False ShadowReceiver=True LODIn=(60.0) LODOut=(700.0)
+ }
+}

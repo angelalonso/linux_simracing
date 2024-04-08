@@ -1,0 +1,368 @@
+
+// ENGINE SOUNDS (INSIDE)
+
+// inside coasting
+VS_INSIDE_COAST_ENGINE_1=Cars\mini_idle.wav
+VS_INSIDE_COAST_ENGINE_2=Cars\mini_offverylow.wav
+VS_INSIDE_COAST_ENGINE_3=Cars\mini_offlow.wav
+VS_INSIDE_COAST_ENGINE_4=Cars\mini_offmid.wav
+VS_INSIDE_COAST_ENGINE_5=Cars\mini_offhigh.wav
+
+
+// inside on-throttle
+VS_INSIDE_POWER_ENGINE_1=Cars\mini_idle.wav
+VS_INSIDE_POWER_ENGINE_2=Cars\mini_onverylow.wav
+VS_INSIDE_POWER_ENGINE_3=Cars\mini_onlow.wav
+VS_INSIDE_POWER_ENGINE_4=Cars\mini_onmid.wav
+VS_INSIDE_POWER_ENGINE_5=Cars\mini_onhigh.wav
+
+//VS_INSIDE_ENGINE_STARTER=Cars\mini_start.wav
+VS_INSIDE_ENGINE_STARTING=Cars\mini_startup.wav
+
+
+// ENGINE SOUNDS (OUTSIDE)
+
+// outside coasting
+VS_OUTSIDE_COAST_ENGINE_1=Cars\miniex_idle.wav
+VS_OUTSIDE_COAST_ENGINE_2=Cars\miniex_offverylow.wav
+VS_OUTSIDE_COAST_ENGINE_3=Cars\miniex_offlow.wav
+VS_OUTSIDE_COAST_ENGINE_4=Cars\miniex_offmid.wav
+VS_OUTSIDE_COAST_ENGINE_5=Cars\miniex_offhigh.wav
+
+// outside on-throttle
+VS_OUTSIDE_POWER_ENGINE_1=Cars\miniex_idle.wav
+VS_OUTSIDE_POWER_ENGINE_2=Cars\miniex_onverylow.wav
+VS_OUTSIDE_POWER_ENGINE_3=Cars\miniex_onlow.wav
+VS_OUTSIDE_POWER_ENGINE_4=Cars\miniex_onmid.wav
+VS_OUTSIDE_POWER_ENGINE_5=Cars\miniex_onhigh.wav
+
+//VS_OUTSIDE_ENGINE_STARTER=Cars\miniex_start.wav
+VS_OUTSIDE_ENGINE_STARTING=Cars\miniex_startup.wav
+
+
+// BACKFIRE & SHIFT SOUNDS (INSIDE)
+
+VS_INSIDE_SHIFT_UP_1=Cars\gear_change_up.wav
+VS_INSIDE_SHIFT_UP_2=Cars\gear_change_up.wav
+VS_INSIDE_SHIFT_UP_3=Cars\gear_change_up.wav
+VS_INSIDE_SHIFT_DOWN_1=Cars\gear_change_down.wav
+VS_INSIDE_SHIFT_DOWN_2=Cars\gear_change_down.wav
+VS_INSIDE_SHIFT_DOWN_3=Cars\gear_change_down.wav
+
+VS_INSIDE_BACKFIRE_1=Cars\pop_1_Group_A_4pot.wav
+VS_INSIDE_BACKFIRE_2=Cars\pop_2_Group_A.wav
+VS_INSIDE_BACKFIRE_3=Cars\pop_2_Group_A.wav
+
+BackfireAmount=0.5
+
+VS_INSIDE_SPLUTTER=Cars\Splutter_int_Group_A.wav
+
+SplutterAmount=0.7
+
+// BACKFIRE & SHIFT SOUNDS (OUTSIDE)
+
+VS_OUTSIDE_SHIFT_UP_1=Cars\gear_ext_up_1.wav
+VS_OUTSIDE_SHIFT_UP_2=Cars\gear_ext_up_2.wav
+VS_OUTSIDE_SHIFT_UP_3=Cars\gear_ext_up_3.wav
+VS_OUTSIDE_SHIFT_DOWN_1=Cars\gear_ext_down_1.wav
+VS_OUTSIDE_SHIFT_DOWN_2=Cars\gear_ext_down_2.wav
+VS_OUTSIDE_SHIFT_DOWN_3=Cars\gear_ext_down_3.wav
+
+VS_OUTSIDE_BACKFIRE_1=Cars\backfire_ext_2a.wav
+VS_OUTSIDE_BACKFIRE_2=Cars\backfire_ext_2a.wav
+VS_OUTSIDE_BACKFIRE_3=Cars\backfire_ext_2a.wav
+
+BackfireAmount=0.5
+
+VS_OUTSIDE_SPLUTTER=Cars\backfire_ext_6.wav
+
+
+SplutterAmount=0.4
+
+// ROAD SURFACE SOUNDS  (INSIDE)
+
+VS_INSIDE_ROADNOISE_DRY=gtc_road_roll_int.wav
+VS_INSIDE_ROADNOISE_WET=road_roll_int_wet.wav
+VS_INSIDE_ROADNOISE_RUMBLESTRIP=rumble.wav
+VS_INSIDE_ROADNOISE_GRASS=grass_roll_int.wav
+VS_INSIDE_ROADNOISE_DIRT=gravel_roll_int.wav
+VS_INSIDE_ROADNOISE_GRAVEL=gravel_roll_int.wav
+
+
+// SKID SOUNDS (INSIDE)
+
+VS_INSIDE_TIRE_SCRUB=road_scrub_int.wav
+VS_INSIDE_SKID_DRY=road_skid_int.wav
+VS_INSIDE_SKID_WET=road_skid_int_wet.wav
+VS_INSIDE_SKID_GRASS=grass_skid_int.wav
+VS_INSIDE_SKID_DIRT=gravel_skid_int.wav
+VS_INSIDE_SKID_GRAVEL=gravel_skid_int.wav
+
+
+// ROAD SURFACE SOUNDS  (OUTSIDE)
+
+VS_OUTSIDE_ROADNOISE_DRY=gtc_road_roll_ext.wav
+VS_OUTSIDE_ROADNOISE_WET=road_roll_ext_wet.wav
+VS_OUTSIDE_ROADNOISE_RUMBLESTRIP=rumble_ext.wav
+VS_OUTSIDE_ROADNOISE_GRASS=grass_roll_ext.wav
+VS_OUTSIDE_ROADNOISE_DIRT=gravel_roll_ext.wav
+VS_OUTSIDE_ROADNOISE_GRAVEL=gravel_roll_ext.wav
+
+// SKID SOUNDS (OUTSIDE)
+
+VS_OUTSIDE_TIRE_SCRUB=road_scrub_ext.wav
+VS_OUTSIDE_SKID_DRY=road_skid_ext.wav
+VS_OUTSIDE_SKID_WET=road_skid_ext_wet.wav
+VS_OUTSIDE_SKID_GRASS=grass_skid_ext.wav
+VS_OUTSIDE_SKID_DIRT=gravel_skid_ext.wav
+VS_OUTSIDE_SKID_GRAVEL=gravel_skid_ext.wav
+
+// CONTACT SOUNDS  (INSIDE)
+
+VS_INSIDE_SCRAPING=scrape_int.wav
+
+VS_INSIDE_HIT_WALL_1=impact_wall_tap.wav
+VS_INSIDE_HIT_WALL_2=impact_wall_verylight.wav
+VS_INSIDE_HIT_WALL_3=impact_wall_light.wav
+VS_INSIDE_HIT_WALL_4=impact_wall_medium.wav
+VS_INSIDE_HIT_WALL_5=impact_wall_heavy.wav
+
+VS_INSIDE_HIT_OTHERCAR_1=impact_car_tap.wav
+VS_INSIDE_HIT_OTHERCAR_2=impact_car_verylight.wav
+VS_INSIDE_HIT_OTHERCAR_3=impact_car_light.wav
+VS_INSIDE_HIT_OTHERCAR_4=impact_car_medium.wav
+VS_INSIDE_HIT_OTHERCAR_5=impact_car_heavy.wav
+
+VS_INSIDE_HIT_CONE=impact_cone.wav
+
+// CONTACT SOUNDS  (OUTSIDE)
+
+VS_OUTSIDE_SCRAPING=scrape_ext.wav
+
+VS_OUTSIDE_HIT_WALL_1=impactex_wall_tap.wav
+VS_OUTSIDE_HIT_WALL_2=impactex_wall_verylight.wav
+VS_OUTSIDE_HIT_WALL_3=impactex_wall_light.wav
+VS_OUTSIDE_HIT_WALL_4=impactex_wall_medium.wav
+VS_OUTSIDE_HIT_WALL_5=impactex_wall_heavy.wav
+
+VS_OUTSIDE_HIT_OTHERCAR_1=impactex_car_tap.wav
+VS_OUTSIDE_HIT_OTHERCAR_2=impactex_car_verylight.wav
+VS_OUTSIDE_HIT_OTHERCAR_3=impactex_car_light.wav
+VS_OUTSIDE_HIT_OTHERCAR_4=impactex_car_medium.wav
+VS_OUTSIDE_HIT_OTHERCAR_5=impactex_car_heavy.wav
+
+VS_OUTSIDE_HIT_CONE=impactex_cone.wav
+
+
+// AMBIENT SOUNDS (INSIDE)
+
+VS_INSIDE_SPEED_LIMITER_TOGGLE=limitertoggle_int.wav
+VS_INSIDE_WIND_NOISE=vette70_roadstones.wav
+VS_INSIDE_TRACTION_CONTROL=revlimiter_int.wav
+VS_INSIDE_RAIN_NOISE=rain.wav
+VS_INSIDE_ON_FIRE=on_fire_int.wav
+
+
+// AMBIENT SOUNDS (OUTSIDE)
+
+VS_OUTSIDE_SPEED_LIMITER_TOGGLE=limitertoggle_ext.wav
+VS_OUTSIDE_WIND_NOISE=vette70_roadstones_ext.wav
+VS_OUTSIDE_TRACTION_CONTROL=revlimiter_ext.wav
+VS_OUTSIDE_RAIN_NOISE=rain.wav
+VS_OUTSIDE_ON_FIRE=on_fire_ext.wav
+
+
+// ATTENUTATION
+EngineRange=70.0
+EngineShape=0.90
+EngineAmbient=2.00
+
+ShiftRange=70.0
+ShiftShape=0.90
+ShiftAmbient=2.00
+
+OtherRange=60.0
+OtherShape=0.70
+OtherAmbient=3.00
+
+
+// ENGINE VOLUME MIX
+
+playerEngineVolumeMinimum=0.2
+playerEngineVolumeThrottleFraction=0.5
+playerEngineVolumeRevFraction=0.3
+
+non-playerEngineVolumeMinimum=0.2
+non-playerEngineVolumeThrottleFraction=0.2
+non-playerEngineVolumeRevFraction=0.6
+
+
+// ENGINE THROTTLE-POSITION MIX
+EngineLoadBlendInside=(0.1,0.7)   // power sound starts to blend in at 10% throttle, coast sound blends out at 70%
+EngineLoadBlendOutside=(0.1,0.7)  // power sound starts to blend in at 10% throttle, coast sound blends out at 70%
+
+
+// ENGINE REV-SAMPLE MIX
+
+// coast inside
+
+EngineRPMCoastInside=0
+{
+  MinimumRPM=1.00         // above zero, but low enough to hear engine stall
+  MaximumRPM=1709.00     // must overlap properly
+  NaturalRPM=1060.00   // engine RPM at which sample was recorded
+}
+
+EngineRPMCoastInside=1
+{
+  MinimumRPM=1179.00     // must overlap properly
+  MaximumRPM=3120.00     // must overlap properly
+  NaturalRPM=2500.00   // engine RPM at which sample was recorded
+}
+
+EngineRPMCoastInside=2
+{
+  MinimumRPM=2350.00     // must overlap properly
+  MaximumRPM=4872.00     // must overlap properly
+  NaturalRPM=4000.00   // engine RPM at which sample was recorded
+}
+
+EngineRPMCoastInside=3
+{
+  MinimumRPM=3889.00     // must overlap properly
+  MaximumRPM=6603.00     // must overlap properly
+  NaturalRPM=5000.00   // engine RPM at which sample was recorded
+}
+
+EngineRPMCoastInside=4
+{
+  MinimumRPM=5748.00     // must overlap properly
+  MaximumRPM=9500.00     // must overlap properly
+  NaturalRPM=8000.00   // engine RPM at which sample was recorded
+}
+
+// power inside
+EngineRPMPowerInside=0
+{
+  MinimumRPM=1.00         // above zero, but low enough to hear engine stall
+  MaximumRPM=1709.00     // must overlap properly
+  NaturalRPM=1060.00   // engine RPM at which sample was recorded
+}
+
+EngineRPMPowerInside=1
+{
+  MinimumRPM=1179.00     // must overlap properly
+  MaximumRPM=3120.00     // must overlap properly
+  NaturalRPM=2500.00   // engine RPM at which sample was recorded
+}
+
+EngineRPMPowerInside=2
+{
+  MinimumRPM=2350.00     // must overlap properly
+  MaximumRPM=4872.00     // must overlap properly
+  NaturalRPM=4000.00   // engine RPM at which sample was recorded
+}
+
+EngineRPMPowerInside=3
+{
+  MinimumRPM=3889.00     // must overlap properly
+  MaximumRPM=6603.00     // must overlap properly
+  NaturalRPM=5000.00   // engine RPM at which sample was recorded
+}
+
+EngineRPMPowerInside=4
+{
+  MinimumRPM=5748.00     // must overlap properly
+  MaximumRPM=9500.00     // must overlap properly
+  NaturalRPM=8000.00   // engine RPM at which sample was recorded
+}
+
+// coast outside
+EngineRPMCoastOutside=0
+{
+  MinimumRPM=1.00         // above zero, but low enough to hear engine stall
+  MaximumRPM=1709.00     // must overlap properly
+  NaturalRPM=1060.00   // engine RPM at which sample was recorded
+}
+
+EngineRPMCoastOutside=1
+{
+  MinimumRPM=1179.00     // must overlap properly
+  MaximumRPM=3120.00     // must overlap properly
+  NaturalRPM=2500.00   // engine RPM at which sample was recorded
+}
+
+EngineRPMCoastOutside=2
+{
+  MinimumRPM=2350.00     // must overlap properly
+  MaximumRPM=4872.00     // must overlap properly
+  NaturalRPM=4000.00   // engine RPM at which sample was recorded
+}
+
+EngineRPMCoastOutside=3
+{
+  MinimumRPM=3889.00     // must overlap properly
+  MaximumRPM=6603.00     // must overlap properly
+  NaturalRPM=5000.00   // engine RPM at which sample was recorded
+}
+
+EngineRPMCoastOutside=4
+{
+  MinimumRPM=5748.00     // must overlap properly
+  MaximumRPM=9500.00     // must overlap properly
+  NaturalRPM=8000.00   // engine RPM at which sample was recorded
+}
+
+// power outside
+EngineRPMPowerOutside=0
+{
+  MinimumRPM=1.00         // above zero, but low enough to hear engine stall
+  MaximumRPM=1709.00     // must overlap properly
+  NaturalRPM=1060.00   // engine RPM at which sample was recorded
+}
+
+EngineRPMPowerOutside=1
+{
+  MinimumRPM=1179.00     // must overlap properly
+  MaximumRPM=3120.00     // must overlap properly
+  NaturalRPM=2500.00   // engine RPM at which sample was recorded
+}
+
+EngineRPMPowerOutside=2
+{
+  MinimumRPM=2350.00     // must overlap properly
+  MaximumRPM=4872.00     // must overlap properly
+  NaturalRPM=4000.00   // engine RPM at which sample was recorded
+}
+
+EngineRPMPowerOutside=3
+{
+  MinimumRPM=3889.00     // must overlap properly
+  MaximumRPM=6603.00     // must overlap properly
+  NaturalRPM=5000.00   // engine RPM at which sample was recorded
+}
+
+EngineRPMPowerOutside=4
+{
+  MinimumRPM=5748.00     // must overlap properly
+  MaximumRPM=9500.00     // must overlap properly
+  NaturalRPM=8000.00   // engine RPM at which sample was recorded
+}
+
+// TRANNY-SAMPLE MIX
+
+VS_INSIDE_COAST_TRANNY_1=Cars\tw_p_offlow.wav
+VS_INSIDE_COAST_TRANNY_2=Cars\tw_p_offhigh.wav
+VS_INSIDE_POWER_TRANNY_1=Cars\tw_p_onlow.wav
+VS_INSIDE_POWER_TRANNY_2=Cars\tw_p_onhigh.wav
+
+TrannyInitialRampRPM=2000.0 // ramp volume up to this driveshaft RPM because low pitches sound bad
+
+TrannyCoastBlendRPMInside=(3500.0, 10000.0) // blend range using driveshaft RPM
+TrannyCoast1RPMTorqueInside=(2466, 200.0) // natural RPM at which sample was recorded, transmission torque (in Nm) for maximum volume
+TrannyCoast2RPMTorqueInside=(4009, 400.0)
+
+TrannyPowerBlendRPMInside=(4000.0, 10000.0)
+TrannyPower1RPMTorqueInside=(2466, 400.0)
+TrannyPower2RPMTorqueInside=(5805, 400.0)
+

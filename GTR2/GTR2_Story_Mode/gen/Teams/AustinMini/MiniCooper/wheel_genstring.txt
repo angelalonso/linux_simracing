@@ -1,0 +1,7 @@
+wheel gentring number 4
+
+
+1 = BMW grey wheels
+2 = white oz racing
+3 = White enkei
+4 = black enkei

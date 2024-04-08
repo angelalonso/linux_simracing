@@ -1,3 +1,11 @@
+- 1998 Season Mini. Halfway it has to decide if leaving for Japan
+  - No -> Finish the championship, end of the story because there are no sponsors. Also car gets stolen.
+  - Yes -> 1999 Moves to American + Asian Championship to compete with Honda Civics. Win Championship
+    - 2000 -> Japanese(plus Bathurst, plus Sepang) AE86 Cahampionship. Win
+    - 2001 -> World Tour with AE86
+    - 2002 -> DTM Extended
+    - 2003 -> FIA GT
+    - 2004 -> FIA GT
 # Episode 1
 
 The year is 1999.
@@ -113,7 +121,7 @@ When the day arrives, you literally slept 3 hours maximum. There is no pressure 
 
 
 ------------------------------------------
-You could only descrube your first test as interesting.  
+You could only describe your first test as interesting.  
 
 It's going to be hard to focus on the next test track, but you must, because Goodwood is a perfect fit for that Mini. 
 
