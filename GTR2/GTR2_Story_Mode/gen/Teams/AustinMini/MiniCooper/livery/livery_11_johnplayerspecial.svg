@@ -26,12 +26,12 @@
      showgrid="false"
      inkscape:snap-page="false"
      inkscape:zoom="0.29106008"
-     inkscape:cx="510.20394"
-     inkscape:cy="901.87565"
-     inkscape:window-width="1920"
+     inkscape:cx="1534.0475"
+     inkscape:cy="943.10426"
+     inkscape:window-width="1850"
      inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -103,80 +103,94 @@
        id="rect39702"
        width="2.6458333"
        height="541.86664"
-       x="272.25626"
+       x="269.61041"
        y="0" />
     <rect
-       style="fill:#bb9a04;stroke:#bb9a04;stroke-width:2.52881;fill-opacity:1;stroke-opacity:1"
+       style="fill:#bb9a04;fill-opacity:1;stroke:#bb9a04;stroke-width:2.17142;stroke-opacity:1"
        id="rect16810"
-       width="67.021759"
-       height="50.043236"
-       x="77.067352"
-       y="-296.06299"
+       width="56.036919"
+       height="44.130669"
+       x="76.888657"
+       y="-292.61761"
        transform="rotate(90)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.7361px;line-height:1.25;font-family:Gargi;-inkscape-font-specification:Gargi;fill:#0a2715;fill-opacity:1;stroke-width:0.264583"
-       x="-294.26971"
-       y="-88.18428"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.5363px;line-height:1.25;font-family:Gargi;-inkscape-font-specification:Gargi;fill:#0a2715;fill-opacity:1;stroke-width:0.220869"
+       x="-289.59726"
+       y="-83.535187"
        id="text24936"
-       transform="scale(-1)"><tspan
+       transform="scale(-1.0013593,-0.99864255)"><tspan
          sodipodi:role="line"
          id="tspan24934"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.7361px;font-family:Gargi;-inkscape-font-specification:Gargi;fill:#0a2715;fill-opacity:1;stroke-width:0.264583"
-         x="-294.26971"
-         y="-88.18428">11</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.5363px;font-family:Gargi;-inkscape-font-specification:Gargi;fill:#0a2715;fill-opacity:1;stroke-width:0.220869"
+         x="-289.59726"
+         y="-83.535187">11</tspan></text>
+    <rect
+       style="fill:#000001;fill-opacity:1;stroke-width:2"
+       id="rect1107"
+       width="87.731201"
+       height="73.367546"
+       x="398.87534"
+       y="200.46753" />
     <rect
        style="fill:#bb9a04;fill-opacity:1;stroke-width:0.0252638"
        id="rect1413"
        width="2.6458333"
        height="541.86664"
-       x="487.3624"
+       x="482.07083"
        y="0" />
     <rect
        style="fill:#bb9a04;fill-opacity:1;stroke-width:0.0252638"
        id="rect1433"
        width="2.6458333"
        height="541.86664"
-       x="51"
+       x="56.291691"
        y="0" />
     <rect
-       style="fill:#bb9a04;fill-opacity:1;stroke:#bb9a04;stroke-width:2.52882;stroke-opacity:1"
+       style="fill:#bb9a04;fill-opacity:1;stroke:#bb9a04;stroke-width:2.17142;stroke-opacity:1"
        id="rect38280"
-       width="67.022179"
-       height="50.043224"
-       x="-483.28659"
-       y="-258.36664"
+       width="56.036915"
+       height="44.130669"
+       x="-468.94757"
+       y="-254.92117"
        transform="scale(-1)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.7363px;line-height:1.25;font-family:Gargi;-inkscape-font-specification:Gargi;fill:#0a2715;fill-opacity:1;stroke-width:0.264584"
-       x="-256.37976"
-       y="472.00766"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.5363px;line-height:1.25;font-family:Gargi;-inkscape-font-specification:Gargi;fill:#0a2715;fill-opacity:1;stroke-width:0.220869"
+       x="-251.75786"
+       y="459.42041"
        id="text38284"
-       transform="matrix(0,-0.9999968,1.0000032,0,0,0)"><tspan
+       transform="matrix(0,-1.0013594,0.99864244,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan38282"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.7363px;font-family:Gargi;-inkscape-font-specification:Gargi;fill:#0a2715;fill-opacity:1;stroke-width:0.264584"
-         x="-256.37976"
-         y="472.00766">11</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.5363px;font-family:Gargi;-inkscape-font-specification:Gargi;fill:#0a2715;fill-opacity:1;stroke-width:0.220869"
+         x="-251.75786"
+         y="459.42041">11</tspan></text>
     <rect
-       style="fill:#bb9a04;fill-opacity:1;stroke:#bb9a04;stroke-width:2.52882;stroke-opacity:1"
+       style="fill:#000001;stroke-width:2;fill-opacity:1"
+       id="rect863"
+       width="87.731201"
+       height="73.367546"
+       x="60.208855"
+       y="200.46753" />
+    <rect
+       style="fill:#bb9a04;fill-opacity:1;stroke:#bb9a04;stroke-width:2.17141;stroke-opacity:1"
        id="rect38526"
-       width="67.022179"
-       height="50.043224"
-       x="58.264412"
-       y="208.32341" />
+       width="56.036919"
+       height="44.130669"
+       x="72.637772"
+       y="209.73219" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.7363px;line-height:1.25;font-family:Gargi;-inkscape-font-specification:Gargi;fill:#0a2715;fill-opacity:1;stroke-width:0.264584"
-       x="209.95547"
-       y="-69.576744"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.5363px;line-height:1.25;font-family:Gargi;-inkscape-font-specification:Gargi;fill:#0a2715;fill-opacity:1;stroke-width:0.22087"
+       x="211.94736"
+       y="-82.918427"
        id="text38530"
-       transform="rotate(90)"><tspan
+       transform="matrix(0,1.0013592,-0.99864264,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan38528"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.7363px;font-family:Gargi;-inkscape-font-specification:Gargi;fill:#0a2715;fill-opacity:1;stroke-width:0.264584"
-         x="209.95547"
-         y="-69.576744">11</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.5363px;font-family:Gargi;-inkscape-font-specification:Gargi;fill:#0a2715;fill-opacity:1;stroke-width:0.22087"
+         x="211.94736"
+         y="-82.918427">11</tspan></text>
   </g>
 </svg>

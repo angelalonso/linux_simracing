@@ -25,13 +25,13 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:snap-page="false"
-     inkscape:zoom="0.14553004"
-     inkscape:cx="-1642.2726"
-     inkscape:cy="-374.49313"
-     inkscape:window-width="1920"
+     inkscape:zoom="0.20581056"
+     inkscape:cx="1800.1992"
+     inkscape:cy="313.395"
+     inkscape:window-width="1850"
      inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -50,6 +50,13 @@
        inkscape:export-filename="/home/aaf/Software/Dev/linux_simracing/GTR2/GTR2_Story_Mode/gen/Teams/AustinMini/MiniCooper/livery/temp.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.25863"
+       id="rect1111"
+       width="277.28333"
+       height="541.86664"
+       x="132.29167"
+       y="0" />
     <image
        width="541.86664"
        height="541.86664"
@@ -60,23 +67,16 @@
        y="0" />
     <path
        id="path273"
-       style="fill:#ffffd9;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1022.5977,735.32812 c -111.23169,4.97035 -221.59197,14.72529 -290.08208,43.22852 -13.05656,7.27374 -14.94006,9.74344 -15.77734,16.32617 -0.95716,184.68529 -2.33882,368.95039 0.58789,553.92579 -2.46512,68.5636 20.92845,104.4693 45.38086,116.3711 69.21203,33.6877 151.51896,43.1369 243.16997,45.2617 l 2.3261,0.4981 c 5.2318,-0.034 10.4142,-0.097 15.5899,-0.1661 5.1756,0.069 10.358,0.1326 15.5898,0.1661 l 2.3262,-0.4981 c 91.651,-2.1248 173.9598,-11.574 243.1719,-45.2617 24.4524,-11.9018 47.844,-47.8075 45.3789,-116.3711 2.9267,-184.9754 1.545,-369.2405 0.5879,-553.92579 -0.8373,-6.58273 -2.7208,-9.05243 -15.7774,-16.32617 -68.4901,-28.50323 -178.8504,-38.25817 -290.082,-43.22852 l -1.1953,0.23438 z"
        transform="scale(0.26458333)" />
-    <rect
-       style="fill:#ffffff;stroke-width:0.25863"
-       id="rect1111"
-       width="277.28333"
-       height="541.86664"
-       x="132.29167"
-       y="0" />
     <ellipse
-       style="fill:#ffffd9;fill-opacity:1;stroke:none;stroke-width:0.267099"
+       style="fill:#000040;fill-opacity:1;stroke:none;stroke-width:0.322194"
        id="path4099"
-       cx="455.69165"
-       cy="233.17799"
-       rx="28.255363"
-       ry="23.368958" />
+       cx="456.15494"
+       cy="233.47142"
+       rx="34.052773"
+       ry="28.214832" />
     <ellipse
        style="fill:#ffffd9;fill-opacity:1;stroke:none;stroke-width:0.267099"
        id="ellipse4181"
@@ -84,25 +84,18 @@
        cy="233.17799"
        rx="28.255363"
        ry="23.368958" />
-    <ellipse
-       style="fill:#ffffd9;fill-opacity:1;stroke:none;stroke-width:0.267099"
-       id="ellipse4183"
-       cx="270.48358"
-       cy="102.47392"
-       rx="28.255363"
-       ry="23.368958" />
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-weight:bold;font-size:61.7361px;line-height:1.25;font-family:'FantasqueSansMono Nerd Font Mono';-inkscape-font-specification:'FantasqueSansMono Nerd Font Mono Bold Italic';fill:#0a2715;fill-opacity:1;stroke-width:0.264583"
-       x="-298.50311"
-       y="-87.125946"
-       id="text24936"
-       transform="scale(-1)"><tspan
-         sodipodi:role="line"
-         id="tspan24934"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.7361px;font-family:Meera;-inkscape-font-specification:'Meera Bold Italic';fill:#0a2715;fill-opacity:1;stroke-width:0.264583"
-         x="-298.50311"
-         y="-87.125946">01</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2"
+       id="rect26424"
+       width="170.7135"
+       height="116.97521"
+       x="183.83438"
+       y="34.078068" />
+    <path
+       style="fill:#000040;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 305.27948,143.27391 c 0.91797,-32.25128 1.26626,-63.320816 -27.64702,-64.769165 l -0.0142,66.219375 z"
+       id="path4159"
+       sodipodi:nodetypes="cccc" />
     <text
        xml:space="preserve"
        style="font-style:italic;font-weight:bold;font-size:61.7361px;line-height:1.25;font-family:'FantasqueSansMono Nerd Font Mono';-inkscape-font-specification:'FantasqueSansMono Nerd Font Mono Bold Italic';fill:#0a2715;fill-opacity:1;stroke-width:0.264583"
@@ -155,5 +148,151 @@
        height="541.86664"
        x="127.0002"
        y="0" />
+    <rect
+       style="fill:#de0000;fill-opacity:1;stroke-width:0.0378002"
+       id="rect4241"
+       width="7.9375"
+       height="404.35635"
+       x="266.43542"
+       y="78.012886" />
+    <rect
+       style="fill:#000040;fill-opacity:1;stroke-width:0.0217865"
+       id="rect4323"
+       width="2.6458333"
+       height="402.96918"
+       x="279.40009"
+       y="79.400085" />
+    <rect
+       style="fill:#deaf00;fill-opacity:1;stroke-width:0.0218149"
+       id="rect4325"
+       width="2.6458333"
+       height="404.01883"
+       x="276.75449"
+       y="78.350426" />
+    <path
+       style="fill:#000040;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 235.56401,143.27391 c -0.91797,-32.25128 -1.26626,-63.320816 27.64702,-64.769165 l 0.0142,66.219375 z"
+       id="path8133"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="fill:#000040;fill-opacity:1;stroke-width:0.0217865"
+       id="rect8135"
+       width="2.6458333"
+       height="402.96918"
+       x="-261.44302"
+       y="79.400085"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#deaf00;fill-opacity:1;stroke-width:0.0218149"
+       id="rect8137"
+       width="2.6458333"
+       height="404.01883"
+       x="-264.08862"
+       y="78.350426"
+       transform="scale(-1,1)" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.267099"
+       id="ellipse4183"
+       cx="270.48358"
+       cy="102.47392"
+       rx="28.255363"
+       ry="23.368958" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-size:61.7361px;line-height:1.25;font-family:'FantasqueSansMono Nerd Font Mono';-inkscape-font-specification:'FantasqueSansMono Nerd Font Mono Bold Italic';fill:#000040;fill-opacity:1;stroke-width:0.264583"
+       x="-285.08636"
+       y="-82.498367"
+       id="text24936"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan24934"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.7361px;font-family:'FantasqueSansMono Nerd Font Mono';-inkscape-font-specification:'FantasqueSansMono Nerd Font Mono Bold';fill:#000040;fill-opacity:1;stroke-width:0.264583"
+         x="-285.08636"
+         y="-82.498367">1</tspan></text>
+    <rect
+       style="fill:#de0000;fill-opacity:1;stroke-width:0.0130557"
+       id="rect8558"
+       width="7.9375"
+       height="48.236725"
+       x="266.43533"
+       y="493.23187" />
+    <rect
+       style="fill:#000040;fill-opacity:1;stroke-width:0.00752479"
+       id="rect8560"
+       width="2.6458333"
+       height="48.071247"
+       x="279.39999"
+       y="493.20798" />
+    <rect
+       style="fill:#deaf00;fill-opacity:1;stroke-width:0.00752417"
+       id="rect8562"
+       width="2.6458333"
+       height="48.063141"
+       x="276.75439"
+       y="493.21609" />
+    <rect
+       style="fill:#000040;fill-opacity:1;stroke-width:0.00752479"
+       id="rect8564"
+       width="2.6458333"
+       height="48.071247"
+       x="-261.44293"
+       y="493.20798"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#deaf00;fill-opacity:1;stroke-width:0.00752417"
+       id="rect8566"
+       width="2.6458333"
+       height="48.063141"
+       x="-264.08853"
+       y="493.21609"
+       transform="scale(-1,1)" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.267099"
+       id="ellipse24629"
+       cx="233.70737"
+       cy="-456.22083"
+       rx="28.255363"
+       ry="23.368958"
+       transform="rotate(90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-size:61.7361px;line-height:1.25;font-family:'FantasqueSansMono Nerd Font Mono';-inkscape-font-specification:'FantasqueSansMono Nerd Font Mono Bold Italic';fill:#000040;fill-opacity:1;stroke-width:0.264583"
+       x="-247.63425"
+       y="475.97174"
+       id="text24633"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan24631"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.7361px;font-family:'FantasqueSansMono Nerd Font Mono';-inkscape-font-specification:'FantasqueSansMono Nerd Font Mono Bold';fill:#000040;fill-opacity:1;stroke-width:0.264583"
+         x="-247.63425"
+         y="475.97174">1</tspan></text>
+    <ellipse
+       style="fill:#000040;fill-opacity:1;stroke:none;stroke-width:0.322194"
+       id="ellipse26394"
+       cx="-93.146851"
+       cy="-231.88387"
+       rx="34.052773"
+       ry="28.214832"
+       transform="scale(-1)" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.267099"
+       id="ellipse26396"
+       cx="-232.1198"
+       cy="93.212738"
+       rx="28.255363"
+       ry="23.368958"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-size:61.7361px;line-height:1.25;font-family:'FantasqueSansMono Nerd Font Mono';-inkscape-font-specification:'FantasqueSansMono Nerd Font Mono Bold Italic';fill:#000040;fill-opacity:1;stroke-width:0.264583"
+       x="217.82159"
+       y="-73.38382"
+       id="text26400"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan26398"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.7361px;font-family:'FantasqueSansMono Nerd Font Mono';-inkscape-font-specification:'FantasqueSansMono Nerd Font Mono Bold';fill:#000040;fill-opacity:1;stroke-width:0.264583"
+         x="217.82159"
+         y="-73.38382">1</tspan></text>
   </g>
 </svg>

@@ -95,7 +95,7 @@
     surname: Allison
     nat_code: "GBR"
     nationality: British
-    livery: mclaren
+    livery: "11"
     year: 1998
 - talent:
   - car_id: 65012
