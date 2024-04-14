@@ -6,6 +6,12 @@
     - 2002 -> DTM Extended
     - 2003 -> FIA GT
     - 2004 -> FIA GT
+# To Be Done
+- Write whole story
+- Add alternatives: some to go directly into more difficult cars, some are dead-ends
+- Write Credits, in order of appearance
+- Add links to Credits on each step of the book
+ 
 # Episode 1
 
 The year is 1999.
@@ -39,26 +45,26 @@ However, doubts begin to creep in. The car is likely registered in Rich's name, 
 ------------------------------------------
 Excitement mingles with apprehension as you contemplate the daunting challenge ahead.
 
-You see, you are no seasoned racer. In fact, you have never even set foot on a racing track other than your local go-Kart ring before. 
+You see, you are no seasoned racer. In fact, you have never even set foot on a racing track other than your local go-Kart ring before.
 The idea of competing against seasoned veterans in a high-stakes championship seems both exhilarating and terrifying.
 
 But also know that this opportunity is too precious to pass up. With a determined glint in your eye, you make a decision.
 
 Rather than diving headfirst into the championship without any experience, you resolve to hone your skills first. It may be a good idea to give the most seasoned guy from your go-karting days, Tom, a call. You also decide to not tell him about the whole Rich story.
 
-    Ah, you've struck gold, mate! How on earth did you manage to nab such an opportunity? 
+    Ah, you've struck gold, mate! How on earth did you manage to nab such an opportunity?
     Never mind, I probably don't want to know – likely involves a story with an older lady or something equally wild.
 
-    But hey, let's focus! What's important now is that you've called me up. Let's get down to business and start with the basics. 
+    But hey, let's focus! What's important now is that you've called me up. Let's get down to business and start with the basics.
 
 ![Tom, as perceived by AI](imgs/tom_1.jpg)
 
-    Have you had a chance to take that car out for a spin yet? Oh, wait, you just got it, didn't you? 
+    Have you had a chance to take that car out for a spin yet? Oh, wait, you just got it, didn't you?
     Well, no worries, mate, we'll need to rack up some miles before the Championship kicks off anyway.
 
     I happen to know a few lads who've got access to a nice track – perfect for newbies like yourself, and if you impress there, who knows? Maybe you'll be strutting your stuff at Goodwood before you know it.
 
-    But, you know the deal – nothing comes for free. 
+    But, you know the deal – nothing comes for free.
     I want to be your race engineer for the entire season, and trust me, you'll want my expertise, so I'll need the odd joyride in that motor when the mood strikes me.
 
 
@@ -82,15 +88,16 @@ Rather than diving headfirst into the championship without any experience, you r
         Use visual cues to see how close you are to the track edge.
         Use the feedback from your steering wheel to see if your wheels are off the track (if your wheel supports that, like).
     Look ahead.
-        Check out this video for some tips:
+        Check out this video (preferably on DVD for historical accuracy) for some tips:
             - https://youtu.be/WO-URMCm7SI?t=60
     Get practicing with trail braking.
         Watch these videos for pointers:
             - https://www.youtube.com/watch?v=tvcuGoVhpxw
             - https://www.youtube.com/watch?v=eUdaWbr1KB4
             - https://www.youtube.com/watch?v=hxIanjfmGDY
-
-    Now, let's tackle the track itself...
+    Have a look at this video about going fast on a FWD car:
+            - https://www.youtube.com/watch?v=8jys4hEKfhM
+     Now, let's tackle the track itself...
 
 ![A race track, as perceived by AI](imgs/racetrack_1.jpg)
 
@@ -108,69 +115,61 @@ Rather than diving headfirst into the championship without any experience, you r
     Turn 5 - right:
     Just lift off the gas a bit to prevent overshooting on exit.
 
-Given the track layout and the car you have, you decide to focus your setup on only loading the amount of gas you need, find a comfortable brake balance, and perhaps experiment with tire pressures.
-
-    One last thing: You might notice I'm pretty fussy about brake temperatures. 
-    
-    When I start panicking, I'll be yelling at you to cool them brakes down. 
-    
-    Has a bit to do with me old man, how he passed away and all. Ignore the shouting but keep them brakes below 500 degrees, please.
-
+Being a newbie on this track with the Mini, you decide not to touch much and focus your setup on only loading only as little gas as you need, finding a comfortable brake balance, and perhaps experimenting with tire pressures, but you still have a look at some videos about setting up FWD cars to understand the big picture: https://www.youtube.com/watch?v=uADTsFrv4YE.
 
 When the day arrives, you literally slept 3 hours maximum. There is no pressure for results, but it is your first time on a race track and you know there is a lot of basic stuff you will be learning.
-
 
 ------------------------------------------
 You could only describe your first test as interesting.  
 
-It's going to be hard to focus on the next test track, but you must, because Goodwood is a perfect fit for that Mini. 
+It's going to be hard to focus on the next test track, but you must, because Goodwood is a perfect fit for that Mini.
 
     Your car's a gem, did you clock that? That's why those fancy collectors let us tear up some laps here at Goodwood. Bet you'll start hearing offers before we even head home.
-    
-    
+   
+   
     Here's the scoop on running a lap at Goodwood in plain English:
-    
+   
     Turn 1 – Madgwick:
-    
+   
         Start on the left side of the track, brake gently along the edge or don't brake at all.
         As you turn, focus on carrying speed through the bend.
         Aim for two apex points, adjusting your line depending on your car's setup.
         After the bend, keep left in the dry, center in the wet along the straight.
-    
+   
     Turn 2 – Fordwater:
-    
+   
         Turn from the left side, smoothly steering due to high speed.
         In the wet, avoid a puddle on the apex by running wide.
         After the turn, let the car drift to the left, keeping on power and left for stability.
-    
+   
     Turn 3 - St Mary’s:
-    
+   
         Brake gently before the slight crest, aiming for the right apex.
         Get back on the power early, moving to the middle of the track for exit.
         Brake short and firm for St Mary's part two, aiming for the apex on the right.
-    
+   
     Turn 4 - Lavant:
-    
+   
         Brake halfway between the brake and 50 board, aiming for the apex.
         Start power after the first apex, avoiding painted kerbs in the wet.
         Unwind steering and run fully left next to the green arrow board.
-    
+   
     Turn 5 - Kink:
-    
+   
         Smoothly move right, using boards to guide through the kink.
         Aim for the number 50 board for braking into Woodcote corner.
-    
+   
     Turn 6 – Woodcote:
-    
+   
         Brake at the 200 or brake board, easing off to keep left.
         Add more lock at the second red chevron for the apex on the right.
         Stay on power in third gear up to the chicane braking point.
-    
+   
     Turn 7 – Chicane:
-    
+   
         Brake short and firm, choosing a late or early turn into the chicane.
         Unwind steering after the left wall, feeding in power progressively along the right side of the track.
-    
+   
     In terms of setup, the same as on High Speed Ring should be a good base, but you have to play with it and find out.
    
 ------------------------------------------
@@ -203,86 +202,6 @@ If you jump into the championship and mess up the car, you're in deep trouble. A
 But if you're game, once you're finished testing at Goodwood, no matter how it goes, dive into GTR2 and kickstart the Championship named "".
 - [Click here when you're done, and if (big if) you manage to bag first place in the championship.](./1050.md)
 -------------------------------------------------------
-HSR
-
-High Speed Ring is a fictional track in the Gran Turismo series known for its high-speed layout and minimalistic design. To achieve a fast lap time on High Speed Ring in Gran Turismo, consider the following:
-
-    Track Familiarity: Since High Speed Ring is a fictional track, spend time familiarizing yourself with its layout. Learn the location of corners, straights, braking points, and potential overtaking opportunities.
-
-    Optimal Racing Line: Focus on mastering the optimal racing line for each corner. While High Speed Ring is relatively simple compared to real-world circuits, hitting the perfect line can still make a significant difference in lap times.
-
-    Smooth Driving: Smoothness is key to a fast lap time on High Speed Ring. Maintain a steady pace throughout the lap, minimizing unnecessary steering inputs, braking, and throttle adjustments to carry momentum.
-
-    Braking Technique: Identify the braking points for each corner and brake efficiently without locking up the wheels. High Speed Ring has a few braking zones, particularly before the tight hairpin corners, where precise braking is crucial.
-
-    Acceleration and Top Speed: Maximize acceleration and top speed on the long straights. Ensure you get a good exit out of corners to carry as much speed as possible onto the straights, where you can reach your car's maximum velocity.
-
-    Cornering Speed: While High Speed Ring lacks complex corners, maintaining high cornering speeds is still essential. Carry as much speed as possible through the sweeping bends, and be careful not to scrub off too much speed in the sharper turns.
-
-    Use of Curbs: Utilize the curbs where appropriate to straighten the racing line and carry more speed through corners. However, be cautious not to abuse them too much, as it could unsettle the car or result in penalties.
-
-    Car Setup: Adjust your car's setup to suit the high-speed nature of the track. Focus on maximizing straight-line speed, while maintaining stability and grip through the corners. Experiment with different setups to find the optimal balance for High Speed Ring.
-
-    Consistency: Consistency is crucial for setting fast lap times. Aim to string together multiple clean laps without errors to improve your overall performance.
-
-    Practice: Practice regularly to refine your driving technique and optimize your approach to High Speed Ring. Experiment with different strategies and analyze your performance to identify areas for improvement.
-
-By focusing on these aspects and continuously honing your skills, you can achieve faster lap times on High Speed Ring in Gran Turismo.
-
-High Speed Ring is a fictional racing circuit featured in the Gran Turismo video game series. It's known for its high-speed layout and minimalistic design. Let's break down the layout of High Speed Ring and strategies for navigating each section effectively:
-
-    Start/Finish Straight:
-        The Start/Finish Straight is a long straightaway where you can achieve maximum speed.
-        Use this section to build momentum and prepare for the upcoming corners.
-        Ensure a clean exit from the final corner onto the straight to carry maximum speed.
-
-    Turn 1:
-        Turn 1 is a sweeping right-hand corner that leads into the first complex.
-        Approach with high speed and maintain a smooth line through the corner.
-        Be prepared for the slight elevation change as you exit the corner.
-
-    Turns 2 & 3:
-        This section consists of a left-right chicane complex.
-        Brake in a straight line before entering and carry enough speed to maintain momentum.
-        Use the curbs judiciously to straighten the racing line and maximize exit speed.
-
-    Turn 4:
-        Turn 4 is a fast left-hand corner that leads onto the long back straight.
-        Carry momentum through the corner and position the car for a clean exit onto the straight.
-        Ensure a good exit to maximize acceleration down the back straight.
-
-    Back Straight:
-        The Back Straight is another opportunity to achieve maximum speed.
-        Focus on maintaining a smooth and aerodynamic profile to minimize drag.
-        Prepare for the upcoming braking zone at the end of the straight.
-
-    Turns 5 & 6:
-        This section features a left-right chicane.
-        Brake in a straight line before entering and carry enough speed to flow through the chicane smoothly.
-        Use the curbs to straighten the racing line and maximize exit speed onto the following straight.
-
-    Turn 7:
-        Turn 7 is a sweeping left-hand corner that leads into the final complex.
-        Carry momentum through the corner and position the car for a clean exit.
-
-    Turns 8 & 9:
-        This section consists of a right-left chicane.
-        Brake before entering and carry enough speed to flow through the chicane smoothly.
-        Use the curbs judiciously to straighten the racing line and maximize exit speed.
-
-    Turn 10:
-        Turn 10 is a fast right-hand corner that leads onto the final straight.
-        Approach with high speed and maintain a smooth line through the corner.
-        Ensure a clean exit to maximize acceleration onto the final straight.
-
-    Final Straight:
-        The Final Straight is the last opportunity to gain positions or defend against opponents.
-        Focus on maintaining maximum speed and avoid making mistakes that could cost time.
-
-By mastering the techniques for each section and optimizing your approach, you can achieve faster lap times and improved performance on High Speed Ring in Gran Turismo. Focus on carrying momentum through the high-speed corners and maximizing acceleration on the long straights to extract the most speed out of your car.
-
-
--------------------------------------------------------
 Goodwood
 
 Goodwood Circuit, located near Chichester in West Sussex, England, is a historic and challenging track known for its fast and flowing nature. To achieve a fast lap time around Goodwood, drivers should consider the following:
@@ -311,7 +230,7 @@ Goodwood Circuit, located near Chichester in West Sussex, England, is a historic
 
 By focusing on these aspects and continuously refining your approach, you can improve your lap times around Goodwood Circuit and achieve faster overall performance.
 
-Before you start: Goodwood has a very weird pits setup, turn left from the boxes, isntead of right and you'll find the way in the track in front of you.
+Before you start: Goodwood has a very weird pits setup, turn left from the boxes, instead of right and you'll find the way in the track in front of you.
 
 -----------------------------------------------------
     13 April Thruxton
@@ -463,7 +382,9 @@ By mastering the techniques for each turn and optimizing your approach, you can 
     17 May Brands Hatch indy
 
 
-Brands Hatch Indy Circuit is a popular racing circuit located in Kent, England. It's known for its short and challenging layout, featuring a combination of fast corners and technical sections. Let's explore the layout of the Brands Hatch Indy Circuit and strategies for navigating each turn effectively:
+Brands Hatch Indy Circuit is a popular racing circuit, known for its short and challenging layout.
+Let's explore the layout of the Brands Hatch Indy Circuit and strategies for navigating each turn effectively:
+
 
     Paddock Hill Bend (Turn 1):
         Paddock Hill Bend is a sharp downhill right-hand corner and the iconic opening turn of the circuit.
@@ -476,9 +397,9 @@ Brands Hatch Indy Circuit is a popular racing circuit located in Kent, England. 
         Aim to hug the inside line to maximize exit speed onto the short straight.
 
     Graham Hill Bend (Turn 3):
-        Graham Hill Bend is a fast left-hand corner following Druids.
+        Graham Hill Bend is a medium-speed right-hand corner with a slight elevation change.
         Approach with moderate speed and maintain a smooth line through the corner.
-        Use the banking to carry speed and set up for the Cooper Straight.
+        Use the full width of the track on exit to set up for the Cooper Straight.
 
     Cooper Straight (Straight 1):
         The Cooper Straight is a short straight leading into Surtees.
@@ -505,50 +426,7 @@ Brands Hatch Indy Circuit is a popular racing circuit located in Kent, England. 
         Use the straight to prepare for the upcoming Paddock Hill Bend, ensuring the car is positioned correctly for the entry.
 
 By mastering the techniques for each turn and optimizing your approach, you can achieve faster lap times and improved performance on the Brands Hatch Indy Circuit. Focus on maintaining momentum through the fast corners and maximizing acceleration on the straights to extract the most speed out of your car.
-....
 
-Brands Hatch Indy Circuit is a popular racing circuit located in Kent, England. It's known for its short and fast layout with challenging corners, making it a favorite among drivers and spectators alike. Let's break down the layout of Brands Hatch Indy Circuit and strategies for navigating each turn effectively:
-
-    Paddock Hill Bend (Turn 1):
-        Paddock Hill Bend is a sharp downhill right-hand corner and the iconic opening turn of the circuit.
-        Approach with caution as the track drops away sharply, causing the car to become light.
-        Brake heavily before entering and aim to hit the apex late to carry maximum speed onto the Cooper Straight.
-
-    Druids (Turn 2):
-        Druids is a tight hairpin left-hand corner following Paddock Hill Bend.
-        Brake in a straight line and downshift to an appropriate gear.
-        Take a late apex to set up for the short straight leading into Graham Hill Bend.
-
-    Graham Hill Bend (Turn 3):
-        Graham Hill Bend is a medium-speed right-hand corner with a slight elevation change.
-        Approach with moderate speed and maintain a smooth line through the corner.
-        Use the full width of the track on exit to set up for the Cooper Straight.
-
-    Cooper Straight (Straight 1):
-        The Cooper Straight is a short straight leading into Surtees.
-        Focus on maximizing acceleration out of Graham Hill Bend to carry speed onto the straight.
-        Prepare for the braking zone for the upcoming corner.
-
-    Surtees (Turn 4):
-        Surtees is a fast right-hand corner at the end of the Cooper Straight.
-        Brake heavily before entering and downshift to an appropriate gear.
-        Take a late apex to set up for the short straight leading into McLaren.
-
-    McLaren (Turn 5):
-        McLaren is a left-hand corner following Surtees.
-        Approach with moderate speed and maintain a smooth line through the corner.
-        Be cautious not to run wide on exit, as it can compromise speed onto Clearways.
-
-    Clearways (Turn 6):
-        Clearways is a fast right-hand corner leading onto the Brabham Straight.
-        Carry momentum through the corner and use the full width of the track on exit.
-        Focus on maximizing exit speed onto the straight.
-
-    Brabham Straight (Straight 2):
-        The Brabham Straight is a short straight leading back to Paddock Hill Bend.
-        Use the straight to prepare for the upcoming Paddock Hill Bend, ensuring the car is positioned correctly for the entry.
-
-By mastering the techniques for each turn and optimizing your approach, you can achieve faster lap times and improved performance on the Brands Hatch Indy Circuit. Focus on maintaining momentum through the fast corners and maximizing acceleration onto the short straights to extract the most speed out of your car.
 -----------------------------------------------------
     25 May Oulton Park
 
@@ -898,15 +776,3 @@ Again, it's on you:
 
 - Do you want to switch your Instagram profile to "former race champion".
 - [, or do you still fancy getting down and dirty in the races.](./14963.md)
-------------------------------------------------------
-You tend to be a realistic guy, and so you take a year off your job to become a semi-professional race driver, because of course you do!
-
-This year's race calendar looks as follows:
-
--------------------------------------------------------
-
-Junio 2002, recibes una llamada un Jueves por la tarde. El piloto titular de tu patrocinador en otro campeonato se ha lesionado de gravedad.
-
-Hasta ahora pensabas que eras un tipo con suerte, pero después de esto deberías invertir en Bitcoin.
-
-Viajas ese mismo día a la primera carrera, con el tiempo justo de vestirte para la primera partica de la primera carrera del anho en la copa M3
