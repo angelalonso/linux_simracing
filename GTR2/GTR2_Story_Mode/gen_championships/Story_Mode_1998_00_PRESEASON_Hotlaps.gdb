@@ -1,7 +1,6 @@
-Game Name = CAREER_022 @ Monza - BMW E46 M3
-Game Filter = OR: e46sport
+Game Name = Story Mode 1998 00 PRESEASON @ Hotlaps
+Game Filter = OR: MiniCooper_1998
 IgnoreTrackFilter
-SkipPractice1
 SkipPractice2
 SkipQualifying2
 SkipWarmup
@@ -51,11 +50,11 @@ DefaultScoring
   RaceDay = Sunday
   RaceStart = 15:00
   RaceTimeScaled = 60
-  SkipPractice1 = True
   SkipPractice2 = True
   SkipQualifying2 = True
   SkipWarmup = True
-  RaceTime = 10
+  RaceLaps = 1
+  RaceTime = 2
 }
 
 SeasonScoringInfo
@@ -74,20 +73,20 @@ SeasonScoringInfo
 
 SpecialClasses
 {
-  e46sport = BMW E46 M3
+  MiniCooper_1998 = Mini Cup 1998
 }
 
 CategoryLists = 1
 Category
 {
-  e46sport = BMW E46 M3
+  MiniCooper_1998 = Mini Cup 1998
 }
 
 ComparativeCategory
 {
 }
 
-e46sport_WeightPenalty
+MiniCooper_1998_WeightPenalty
 {
   Maximum     = 0
   FirstPlace  = 0
@@ -99,19 +98,21 @@ e46sport_WeightPenalty
 }
 SceneOrder
 {
-  4Monza
+  FHSRForward
   {
-    track = 4Monza
-    RaceLaps = 20
+    track = FHSRForward
+    StartMode = FormationRollingStart
+    Qualify1Duration = 45
+    RaceLaps = 1
     AIStrength = 120
-    AIRealism = 1.5
   }
-  4Monza
+  Goodwood
   {
-    track = 4Monza
-    RaceLaps = 40
-    AIStrength = 120
-    AIRealism = 1.5
+    track = Goodwood
+    StartMode = FormationRollingStart
+    Qualify1Duration = 45
+    RaceLaps = 1
+    AIStrength = 100
   }
 }
 

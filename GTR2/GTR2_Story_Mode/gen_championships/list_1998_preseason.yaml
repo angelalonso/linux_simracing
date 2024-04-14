@@ -1,0 +1,28 @@
+# Learning how to put together a hotlap
+- "Story Mode 1998 00 PRESEASON @ Hotlaps":
+  - description: "\n
+    "
+    cars:
+      MiniCooper_1998: "Mini Cup 1998"
+    Weather: 0
+    StartMode: StandingStart
+    SkipPractice2: true
+    SkipQualifying2: true
+    SkipWarmup: true
+    "Max Vehicles": 14
+    RaceStart: "15:00"
+    RaceLaps: 1
+    RaceTime: 2
+    races:
+      - race_01:
+        track: FHSRForward
+        StartMode: FormationRollingStart
+        Qualify1Duration: 45
+        RaceLaps: 1
+        AIStrength: 120
+      - race_02:
+        track: Goodwood
+        StartMode: FormationRollingStart
+        Qualify1Duration: 45
+        RaceLaps: 1
+        AIStrength: 100

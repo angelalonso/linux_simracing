@@ -1,0 +1,108 @@
+# Learning how to put together a hotlap
+- "Story Mode 1998 01 Mini Cup Season":
+  - description: "
+    13 April Thruxton \n
+    26 April Silverstone \n
+    04 May Donington \n
+    17 May Brands Hatch \n
+    25 May Oulton Park \n
+    14 June Isle of Man instead of Donington again \n
+    28 June Croft \n
+    26 July Snetterton \n
+    02 August Thruxton \n
+    16 August Knockhill \n
+    31 August Brands Hatch \n
+    13 September Oulton Park \n
+    20 September Silverstone \n
+"
+    cars:
+      MiniCooper_1998: "Mini Cup 1998"
+    Weather: 0
+    StartMode: FormationRollingStart
+    SkipPractice1: true
+    SkipPractice2: true
+    SkipQualifying2: true
+    SkipWarmup: true
+    "Max Vehicles": 14
+    RaceStart: "15:00"
+    RaceLaps: 1
+    RaceTime: 10
+    races:
+      - race_01:
+        track: 09Thruxton
+        Qualify1Duration: 30
+        RaceTime: 15
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_02:
+        track: ILMC_Silverstone
+        Qualify1Duration: 30
+        RaceTime: 15
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_03:
+        track: nDonington
+        Qualify1Duration: 30
+        RaceTime: 15
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_04:
+        track: IBrandsHatch
+        Qualify1Duration: 30
+        RaceTime: 15
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_05:
+        track: Fosters
+        Qualify1Duration: 30
+        RaceTime: 15
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_06:
+        track: Isle_Of_Man
+        Qualify1Duration: 30
+        RaceTime: 15
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_07:
+        track: Croft07
+        Qualify1Duration: 30
+        RaceTime: 15
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_08:
+        track: 05Snetterton
+        Qualify1Duration: 30
+        RaceTime: 15
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_09:
+        track: 09Thruxton
+        Qualify1Duration: 30
+        RaceTime: 15
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_10:
+        track: Knockhill
+        Qualify1Duration: 30
+        RaceTime: 15
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_11:
+        track: 6BrandsHatch
+        Qualify1Duration: 30
+        RaceTime: 15
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_12:
+        track: Inter
+        Qualify1Duration: 30
+        RaceTime: 15
+        AIStrength: 120
+        AIRealism: 1.50
+      - race_13:
+        track: ILMC_Silverstone
+        Qualify1Duration: 30
+        RaceTime: 15
+        AIStrength: 120
+        AIRealism: 1.50

@@ -46,7 +46,6 @@ def get_base_params():
     result = {
             'Selection Filter': '',
             'AI Filter': '',
-            'Opponents': '19',
             'AIStrength': '100',
             'AIRealism': '0.75',
             'MinPlacement': '1',

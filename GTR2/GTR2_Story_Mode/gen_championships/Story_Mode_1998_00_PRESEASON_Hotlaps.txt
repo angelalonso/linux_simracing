@@ -2,7 +2,7 @@
 <CHAMP_TROPHY>
 <SET_FONT>
 FT_LISTBOX_InPit
-CAREER_011 @ Daytona - Alfa Romeo 147 GT-R
+Story Mode 1998 00 PRESEASON @ Hotlaps
 <SET_FONT>
 FT_LISTBOX_HEADER
 
@@ -20,12 +20,5 @@ NEXT_ROUND>
 
 SET_FONT>
 FT_Standard_TEXT_SMALL
-- Description of this Championship:
+
  
- This Championship's goal is to learn Daytona with an Alfa Romeo 147 GT-R FWD car, on a sunny day.
- 
- AI is at its top.
- 
- There are two races:
- - Daytona, 20 laps
- - Daytona, 40 laps
