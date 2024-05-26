@@ -1,8 +1,10 @@
 # Season 1
-[Chapter 1](001.md)
-[Chapter 2](002.md)
-[Chapter 3](003.md)
-[Chapter 4](004.md)
+[Chapter 1 - The minijob](001.md)  
+[Chapter 2 - Introducing Tom](002.md)  
+[Chapter 3 - First blood at the High Speed Ring](003.md)  
+[Chapter 4 - Proper lumber](004.md)  
+  
+  
 
 - 1998 Season Mini. Halfway it has to decide if leaving for Japan
   - No -> Finish the championship, end of the story because there are no sponsors. Also car gets stolen.
