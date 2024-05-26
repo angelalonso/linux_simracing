@@ -1,0 +1,48 @@
+100
+60/40%
+
+st lock 31.0 deg
+diff
+pow 65
+coast 10
+prel. 1
+
+1
+8250
+13/32
+17/28
+20/24
+23/22
+
+----
+311kPa
+5
+5
+4
+4
+45 N/mm
+-2.0
+3.0
+0.0 packers
+10.0 cm
+
+280kPa
+4
+4
+4
+4
+40N/mm
+-1.5
+0.0
+14.0 cm
+
+--
+splitt 1
+antiroll 0.00
+toe in -0.10
+
+wing 1
+antiroll 1.59
+toe in 0.01
+
+

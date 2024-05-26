@@ -16,27 +16,9 @@ def create_txt(struct):
         for k, v in i.items():
             filename = k.replace(" @ ", "_").replace(" ", "_").replace(".", "") + ".txt"
             f = open(filename,"w") 
-            f.writelines("<CHAMP_ICON>\n")
-            f.writelines("<CHAMP_TROPHY>\n")
-            f.writelines("<SET_FONT>\n")
-            f.writelines("FT_LISTBOX_InPit\n")
-            f.writelines(k + "\n")
-            f.writelines("<SET_FONT>\n")
-            f.writelines("FT_LISTBOX_HEADER\n\n")
+
             nr_races = len(v[0]['races'])
             f.writelines("Rounds: " + str(nr_races) + "\n\n")
-
-            f.writelines("<DRIVER_NAME>\n")
-            f.writelines("<CHAMP_STATUS>\n")
-            f.writelines("<BEST_FINISH>\n")
-            f.writelines("<DRIVER_POSITION>\n")
-            f.writelines("<TEAM_POSITION>\n")
-            f.writelines("<CATEGORY>\n")
-            f.writelines("<CAT_DRIVER_POSITION>\n")
-            f.writelines("<CAT_TEAM_POSITION>\n")
-            f.writelines("NEXT_ROUND>\n\n")
-            f.writelines("SET_FONT>\n")
-            f.writelines("FT_Standard_TEXT_SMALL\n")
             descript = v[0]['description']
             f.writelines(descript)
 
@@ -44,8 +26,6 @@ def create_txt(struct):
 
 def get_base_params():
     result = {
-            'Selection Filter': '',
-            'AI Filter': '',
             'AIStrength': '100',
             'AIRealism': '0.75',
             'MinPlacement': '1',
@@ -77,7 +57,6 @@ def get_defaultscoring_params():
     result = {
             'RacePitKPH': '80',
             'NormalPitKPH': '80',
-            'FormationSpeedKPH': '80',
             'Practice1Day': 'Friday',
             'Practice1Start': '12:00',
             'Practice1Duration': '30',
@@ -97,7 +76,6 @@ def get_defaultscoring_params():
             'WarmupDuration': '15',
             'RaceDay': 'Sunday',
             'RaceStart': '15:00',
-            'RaceTimeScaled': '60',
             }
     return result
     
@@ -111,21 +89,22 @@ def create_gdb(struct):
             cardict = v[0]['cars']
             car_id = ""
             car_desc = ""
+            gamefilter = "Game Filter = "
             for k2, v2 in cardict.items():
                 car_id = k2
                 car_desc = v2
-            f.writelines("Game Filter = OR: " + car_id + "\n") # 
+                gamefilter += str("OR: " + car_id)
+            f.writelines(gamefilter + "\n")
+            f.writelines("Selection Filter = \n") # 
+            f.writelines("AI Filter = \n") # 
+            f.writelines("\n") # 
+            f.writelines("\n") # 
+            f.writelines("\n") # 
+            f.writelines("Opponents = 14\n") # 
             #---- 
-            for t in get_base_tags():
-                f.writelines(t + "\n") 
+            #for t in get_base_tags():
+            #    f.writelines(t + "\n") 
             #---- 
-            for t in ['SkipPractice1', 'SkipPractice2', 'SkipQualifying1', 'SkipQualifying2', 'SkipWarmup']:
-                try:
-                    if v[0][t] == True:
-                        f.writelines(t + "\n") 
-                except KeyError:
-                    pass
-            #----
             for pk, pv in get_base_params().items():
                 try:
                     f.writelines("  " + pk + " = " + str(v[0][pk]) + "\n") 
@@ -133,13 +112,32 @@ def create_gdb(struct):
                     f.writelines(pk + " = " + pv + "\n") 
             f.writelines("\n")
             #----
+            for t in ['SkipPractice1', 'SkipPractice2', 'SkipWarmUp']:
+                f.writelines(t + "\n") 
+            #----
+            f.writelines("\n") # 
+            f.writelines("\n") # 
+            f.writelines("SpecialClasses\n{\n")
+            f.writelines("  " + car_id + " = " + car_desc + "\n") #
+            f.writelines("}\n") # 
+            f.writelines("\n") # 
+            #----
             f.writelines("Drafting\n{\n")
             for pk, pv in get_drafting_params().items():
                 try:
                     f.writelines("  " + pk + " = " + str(v[0][pk]) + "\n") 
                 except KeyError:
                     f.writelines("  " + pk + " = " + pv + "\n") 
-            f.writelines("}\n\n")
+            f.writelines("}\n") # 
+            f.writelines("\n") # 
+            #----
+            f.writelines("CategoryLists = 1\n")
+            f.writelines("\n") # 
+            f.writelines("Category\n") # 
+            f.writelines("{\n") # 
+            f.writelines("  MiniCooper_1998 = Mini Cup 1998\n") # 
+            f.writelines("}\n") # 
+            f.writelines("\n") # 
             #----
             f.writelines("DefaultScoring\n{\n")
             defaultscoring_params = get_defaultscoring_params()
@@ -169,12 +167,6 @@ def create_gdb(struct):
             f.writelines(" EighthPlace = 4\n")
             f.writelines(" NinthPlace = 2\n")
             f.writelines(" TenthPlace = 1\n}\n\n")
-            f.writelines("SpecialClasses\n{\n")
-            f.writelines("  " + car_id + " = " + car_desc + "\n}\n\n") #
-            f.writelines("CategoryLists = 1\n")
-            f.writelines("Category\n{\n")
-            f.writelines("  " + car_id + " = " + car_desc + "\n}\n\n") #
-            f.writelines("ComparativeCategory\n{\n}\n\n")
             f.writelines(car_id + "_WeightPenalty\n{\n")
             f.writelines("  Maximum     = 0\n")
             f.writelines("  FirstPlace  = 0\n")

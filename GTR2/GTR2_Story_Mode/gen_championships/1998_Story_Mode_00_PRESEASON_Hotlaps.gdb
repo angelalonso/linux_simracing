@@ -1,12 +1,11 @@
-Game Name = CAREER_001 2002 PRESEASON @ Hotlaps
-Game Filter = OR: alfa147
-IgnoreTrackFilter
-SkipPractice2
-SkipQualifying2
-SkipWarmup
+Game Name = 1998 Story Mode 00 PRESEASON Hotlaps
+Game Filter = OR: MiniCooper_1998
 Selection Filter = 
 AI Filter = 
-Opponents = 19
+
+
+
+Opponents = 14
 AIStrength = 100
 AIRealism = 0.75
 MinPlacement = 1
@@ -18,6 +17,16 @@ Safetycar Threshold = 2.0
 Fuel Multiplier = 1
 Tire Multiplier = 1
 
+SkipPractice1
+SkipPractice2
+SkipWarmUp
+
+
+SpecialClasses
+{
+  MiniCooper_1998 = Mini Cup 1998
+}
+
 Drafting
 {
   BaseDropoff = 0.195
@@ -25,11 +34,17 @@ Drafting
   FollowingExponent = 2.0
 }
 
+CategoryLists = 1
+
+Category
+{
+  MiniCooper_1998 = Mini Cup 1998
+}
+
 DefaultScoring
 {
   RacePitKPH = 80
   NormalPitKPH = 80
-  FormationSpeedKPH = 80
   Practice1Day = Friday
   Practice1Start = 12:00
   Practice1Duration = 30
@@ -49,7 +64,6 @@ DefaultScoring
   WarmupDuration = 15
   RaceDay = Sunday
   RaceStart = 15:00
-  RaceTimeScaled = 60
   SkipPractice2 = True
   SkipQualifying2 = True
   SkipWarmup = True
@@ -71,22 +85,7 @@ SeasonScoringInfo
  TenthPlace = 1
 }
 
-SpecialClasses
-{
-  alfa147 = Alfa Romeo 147 GT-R
-}
-
-CategoryLists = 1
-Category
-{
-  alfa147 = Alfa Romeo 147 GT-R
-}
-
-ComparativeCategory
-{
-}
-
-alfa147_WeightPenalty
+MiniCooper_1998_WeightPenalty
 {
   Maximum     = 0
   FirstPlace  = 0
@@ -101,42 +100,18 @@ SceneOrder
   FHSRForward
   {
     track = FHSRForward
-    StartMode = StandingStart
-    Qualify1Duration = 30
-    RaceLaps = 1
-    AIStrength = 120
-  }
-  JNMonza
-  {
-    track = JNMonza
-    StartMode = StandingStart
-    Qualify1Duration = 30
-    RaceLaps = 1
-    AIStrength = 100
-  }
-  MotWest
-  {
-    track = MotWest
-    StartMode = StandingStart
-    Qualify1Duration = 30
-    RaceLaps = 1
-    AIStrength = 110
-  }
-  IBrandsHatch
-  {
-    track = IBrandsHatch
     StartMode = FormationRollingStart
-    Qualify1Duration = 30
+    Qualify1Duration = 45
     RaceLaps = 1
     AIStrength = 120
   }
-  10_Suzuka_East
+  Goodwood
   {
-    track = 10_Suzuka_East
+    track = Goodwood
     StartMode = FormationRollingStart
-    Qualify1Duration = 30
+    Qualify1Duration = 45
     RaceLaps = 1
-    AIStrength = 120
+    AIStrength = 105
   }
 }
 

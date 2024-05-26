@@ -1,0 +1,15 @@
+Rounds: 10
+
+ We will follow the JGTC Calendar, apart from Tsukuba and Mount Panorama's races
+
+ 21 March     - Suzuka 
+ 2 May        - Fuji 
+ 30 May       - Sugo 
+ 20 June      - Tsukuba 
+ 11 July      - Mine 
+ 8 August     - Fuji 
+ 26 September - TI/Okayama 
+ 24 October   - Motegi 
+ 28 November  - Autopolis 
+ 26 December  - Mount Panorama 
+ 

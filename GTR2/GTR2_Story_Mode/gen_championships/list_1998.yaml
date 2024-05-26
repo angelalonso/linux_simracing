@@ -1,5 +1,5 @@
-# Learning how to put together a hotlap
-- "Story Mode 1998 01 Mini Cup Season":
+# Learning how to finish short races in a slow FWD car
+- "1998 Story Mode 01 Mini Cup":
   - description: "
     13 April Thruxton \n
     26 April Silverstone \n
@@ -17,92 +17,101 @@
 "
     cars:
       MiniCooper_1998: "Mini Cup 1998"
-    Weather: 0
+    Weather: 1
     StartMode: FormationRollingStart
-    SkipPractice1: true
-    SkipPractice2: true
-    SkipQualifying2: true
-    SkipWarmup: true
-    "Max Vehicles": 14
     RaceStart: "15:00"
     RaceLaps: 1
     RaceTime: 10
+    RaceTimeScaled: 60
     races:
       - race_01:
         track: 09Thruxton
-        Qualify1Duration: 30
-        RaceTime: 15
-        AIStrength: 120
-        AIRealism: 1.50
+        Weather: 1
+        AIStrength: 105
+        AIRealism: 1.5
+        RaceLaps: 5
+        RaceTime: 10
       - race_02:
         track: ILMC_Silverstone
-        Qualify1Duration: 30
-        RaceTime: 15
-        AIStrength: 120
-        AIRealism: 1.50
+        Weather: 1
+        AIStrength: 105
+        AIRealism: 1.5
+        RaceLaps: 5
+        RaceTime: 10
       - race_03:
         track: nDonington
-        Qualify1Duration: 30
-        RaceTime: 15
-        AIStrength: 120
-        AIRealism: 1.50
+        Weather: 1
+        AIStrength: 105
+        AIRealism: 1.5
+        RaceLaps: 7
+        RaceTime: 10
       - race_04:
         track: IBrandsHatch
-        Qualify1Duration: 30
-        RaceTime: 15
-        AIStrength: 120
-        AIRealism: 1.50
+        Weather: 1
+        AIStrength: 105
+        AIRealism: 1.5
+        RaceLaps: 10
+        RaceTime: 10
       - race_05:
         track: Fosters
-        Qualify1Duration: 30
-        RaceTime: 15
-        AIStrength: 120
-        AIRealism: 1.50
+        Weather: 1
+        AIStrength: 105
+        AIRealism: 1.5
+        RaceLaps: 10
+        RaceTime: 10
       - race_06:
         track: Isle_Of_Man
-        Qualify1Duration: 30
-        RaceTime: 15
-        AIStrength: 120
-        AIRealism: 1.50
+        Weather: 1
+        AIStrength: 105
+        AIRealism: 1.5
+        RaceLaps: 3
+        RaceTime: 10
       - race_07:
         track: Croft07
-        Qualify1Duration: 30
-        RaceTime: 15
-        AIStrength: 120
-        AIRealism: 1.50
+        Weather: 1
+        AIStrength: 105
+        AIRealism: 1.5
+        RaceLaps: 10
+        RaceTime: 10
       - race_08:
         track: 05Snetterton
-        Qualify1Duration: 30
-        RaceTime: 15
-        AIStrength: 120
-        AIRealism: 1.50
+        Weather: 1
+        AIStrength: 105
+        AIRealism: 1.5
+        RaceLaps: 10
+        RaceTime: 10
       - race_09:
         track: 09Thruxton
-        Qualify1Duration: 30
-        RaceTime: 15
-        AIStrength: 120
-        AIRealism: 1.50
+        Weather: 1
+        AIStrength: 105
+        AIRealism: 1.5
+        RaceLaps: 10
+        RaceTime: 10
       - race_10:
         track: Knockhill
-        Qualify1Duration: 30
-        RaceTime: 15
-        AIStrength: 120
-        AIRealism: 1.50
+        Weather: 1
+        AIStrength: 105
+        AIRealism: 1.5
+        RaceLaps: 10
+        RaceTime: 10
       - race_11:
         track: 6BrandsHatch
-        Qualify1Duration: 30
-        RaceTime: 15
-        AIStrength: 120
-        AIRealism: 1.50
+        Weather: 1
+        AIStrength: 105
+        AIRealism: 1.5
+        RaceLaps: 10
+        RaceTime: 10
       - race_12:
         track: Inter
-        Qualify1Duration: 30
-        RaceTime: 15
-        AIStrength: 120
-        AIRealism: 1.50
+        Weather: 1
+        AIStrength: 105
+        AIRealism: 1.5
+        RaceLaps: 10
+        RaceTime: 10
       - race_13:
         track: ILMC_Silverstone
-        Qualify1Duration: 30
-        RaceTime: 15
-        AIStrength: 120
-        AIRealism: 1.50
+        Weather: 1
+        AIStrength: 105
+        AIRealism: 1.5
+        RaceLaps: 10
+        RaceTime: 10

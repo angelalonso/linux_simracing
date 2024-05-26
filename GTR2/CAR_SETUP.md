@@ -1,0 +1,65 @@
+- 0: Default
+  - Tires
+    - Common sense
+  - Radiator opening
+    - Start with minimum, check that temperatures dont go over 100°
+  - Rev limit
+    - Start with maximum, check that temperatures dont go over 100°
+  - Fuel quantity
+    - Common sense
+- 1: Gear Box
+  - Engine reaches rev limits in the longest straight in 6th gear
+    - Lengthen 6th gear and re-arrange 2nd to 5th gear to get even spacing between 1st & 6th gear
+  - Engine does not reach rev limits in the longest straight in 6th gear
+    - Shorten 6th gear and re-arrange 2nd to 5th gear to get even spacing between 1st & 6th gear
+- 2: Brake duct opening
+  - Brake temperature gets lower than 300°C in the straights
+    - Lower duct opening
+  - Brake temperature goes over 600°C  while braking
+    - Higher duct opening
+- 3: Camber and Tire Pressure initials
+  - Interior Tire Temperature - Exterior Tire Temperature < 0°C
+    - Increase negative camber
+  - Interior Tire Temperature - Exterior Tire Temperature > 0°C
+    - Decrease negative camber
+  - Center of tire Colder than Exterior and Interior Tire Temperature
+    - Increase Tire Pressure
+  - Center of tire Warmer than Exterior and Interior Tire Temperature
+    - Decrease Tire Pressure
+- 4: Brake Bias
+  - Front wheels lock first while braking (Tendency for the car to go straight off track)
+    - Adjust bias towards rear
+  - Rear wheels lock first while braking (Tendency for the car to spin)
+    - Adjust bias towards front
+- 5: Steering lock
+  - Steering reaches the end stop in the sharpest turn
+    - Increase Steering Lock
+  - Steering at 50% in the sharpest turn
+    - Decrease Steering Lock
+- 6: Differential
+  - DIFFERENTIAL POWER
+    - Good propulsion but car understeers under power
+      - Decrease power
+    - Lack of propulsion exiting corners
+      - Increase power
+  - DIFFERENTIAL COAST
+    - Stable braking but lift off understeer
+      - Decrease coast
+    - Unstable braking, lift off oversteer
+      - Increase coast
+  - DIFFERENTIAL PRELOAD
+    - Car too nervous transitioning from braking / Acceleration
+      - Decrease preload
+    - car not enough responsive transitioning from braking / Acceleration
+      - Increase preload
+- 7: Aero
+  - SPLITTER
+    - Fast track (type Enna Pergusa or Monza)
+      - Front splitter at 1
+    - All other tracks
+      - Front splitter at 2
+  - WING
+    - Understeering car in a fast curve (more than 120 kph)
+      - Decrease rear wing
+    - Oversteering car in a fast curve (more than 120 kph) (slightly is good, though)
+      - Increase rear wing

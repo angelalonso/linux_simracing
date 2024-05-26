@@ -1,0 +1,94 @@
+# Second season
+- "1999 Story Mode 01 Gaijin Civic Challenge":
+  - description: "
+    We will follow the JGTC Calendar, apart from Tsukuba and Mount Panorama's races\n\n
+    21 March     - Suzuka \n
+    2 May        - Fuji \n
+    30 May       - Sugo \n
+    20 June      - Tsukuba \n
+    11 July      - Mine \n
+    8 August     - Fuji \n
+    26 September - TI/Okayama \n
+    24 October   - Motegi \n
+    28 November  - Autopolis \n
+    26 December  - Mount Panorama \n
+"
+    cars:
+      CIVCUP: "Honda Civic EG"
+    Weather: 1
+    StartMode: FormationRollingStart
+    RaceStart: "15:00"
+    RaceLaps: 15
+    RaceTime: 15
+    RaceTimeScaled: 60
+    races:
+      - race_01:
+        track: 12Suzuka
+        Weather: 1
+        AIStrength: 110
+        AIRealism: 1.5
+        RaceLaps: 15
+        RaceTime: 15
+      - race_02:
+        track: WEC_Fuji
+        Weather: 1
+        AIStrength: 110
+        AIRealism: 1.5
+        RaceLaps: 15
+        RaceTime: 15
+      - race_03:
+        track: Sugo2006
+        Weather: 1
+        AIStrength: 110
+        AIRealism: 1.5
+        RaceLaps: 15
+        RaceTime: 15
+      - race_04:
+        track: Tsukuba
+        Weather: 1
+        AIStrength: 110
+        AIRealism: 1.5
+        RaceLaps: 15
+        RaceTime: 15
+      - race_05:
+        track: Mine_2005
+        Weather: 1
+        AIStrength: 110
+        AIRealism: 1.5
+        RaceLaps: 15
+        RaceTime: 15
+      - race_06:
+        track: WEC_Fuji
+        Weather: 2
+        AIStrength: 110
+        AIRealism: 1.5
+        RaceLaps: 15
+        RaceTime: 15
+      - race_07:
+        track: Okayama
+        Weather: 1
+        AIStrength: 110
+        AIRealism: 1.5
+        RaceLaps: 15
+        RaceTime: 15
+      - race_08:
+        track: Motegi
+        Weather: 1
+        AIStrength: 110
+        AIRealism: 1.5
+        RaceLaps: 15
+        RaceTime: 15
+      - race_09:
+        track: 05APGP
+        Weather: 1
+        AIStrength: 110
+        AIRealism: 1.5
+        RaceLaps: 15
+        RaceTime: 15
+      - race_10:
+        track: 09SHIFT2U_MP
+        Weather: 1
+        AIStrength: 110
+        AIRealism: 1.5
+        RaceLaps: 15
+        RaceTime: 15

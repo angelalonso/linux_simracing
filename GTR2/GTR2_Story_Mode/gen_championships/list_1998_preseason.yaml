@@ -1,5 +1,5 @@
 # Learning how to put together a hotlap
-- "Story Mode 1998 00 PRESEASON @ Hotlaps":
+- "1998 Story Mode 00 PRESEASON Hotlaps":
   - description: "\n
     "
     cars:
@@ -25,4 +25,4 @@
         StartMode: FormationRollingStart
         Qualify1Duration: 45
         RaceLaps: 1
-        AIStrength: 100
+        AIStrength: 105
