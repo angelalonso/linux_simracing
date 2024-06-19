@@ -1,12 +1,11 @@
-Game Name = Story Mode 1998 00 PRESEASON @ Hotlaps
-Game Filter = OR: MiniCooper_1998
-IgnoreTrackFilter
-SkipPractice2
-SkipQualifying2
-SkipWarmup
+Game Name = 2001 Story Mode 01 Formula BMW M3 E46 Tour
+Game Filter = OR: e46sport
 Selection Filter = 
 AI Filter = 
-Opponents = 19
+
+
+
+Opponents = 14
 AIStrength = 100
 AIRealism = 0.75
 MinPlacement = 1
@@ -18,6 +17,16 @@ Safetycar Threshold = 2.0
 Fuel Multiplier = 1
 Tire Multiplier = 1
 
+SkipPractice1
+SkipPractice2
+SkipWarmUp
+
+
+SpecialClasses
+{
+  e46sport = BMW E46
+}
+
 Drafting
 {
   BaseDropoff = 0.195
@@ -25,11 +34,17 @@ Drafting
   FollowingExponent = 2.0
 }
 
+CategoryLists = 1
+
+Category
+{
+  MiniCooper_1998 = Mini Cup 1998
+}
+
 DefaultScoring
 {
   RacePitKPH = 80
   NormalPitKPH = 80
-  FormationSpeedKPH = 80
   Practice1Day = Friday
   Practice1Start = 12:00
   Practice1Duration = 30
@@ -48,13 +63,10 @@ DefaultScoring
   WarmupStart = 14:30
   WarmupDuration = 15
   RaceDay = Sunday
-  RaceStart = 15:00
+  RaceStart = 12:00
+  RaceLaps = 15
+  RaceTime = 15
   RaceTimeScaled = 60
-  SkipPractice2 = True
-  SkipQualifying2 = True
-  SkipWarmup = True
-  RaceLaps = 1
-  RaceTime = 2
 }
 
 SeasonScoringInfo
@@ -71,22 +83,7 @@ SeasonScoringInfo
  TenthPlace = 1
 }
 
-SpecialClasses
-{
-  MiniCooper_1998 = Mini Cup 1998
-}
-
-CategoryLists = 1
-Category
-{
-  MiniCooper_1998 = Mini Cup 1998
-}
-
-ComparativeCategory
-{
-}
-
-MiniCooper_1998_WeightPenalty
+e46sport_WeightPenalty
 {
   Maximum     = 0
   FirstPlace  = 0
@@ -98,21 +95,14 @@ MiniCooper_1998_WeightPenalty
 }
 SceneOrder
 {
-  FHSRForward
+  12Suzuka
   {
-    track = FHSRForward
-    StartMode = FormationRollingStart
-    Qualify1Duration = 45
-    RaceLaps = 1
-    AIStrength = 120
-  }
-  Goodwood
-  {
-    track = Goodwood
-    StartMode = FormationRollingStart
-    Qualify1Duration = 45
-    RaceLaps = 1
-    AIStrength = 100
+    track = 12Suzuka
+    Weather = 1
+    AIStrength = 110
+    AIRealism = 1.5
+    RaceLaps = 15
+    RaceTime = 15
   }
 }
 

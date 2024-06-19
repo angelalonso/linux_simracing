@@ -1,0 +1,22 @@
+# third season
+- "2001 Story Mode 01 Formula BMW M3 E46 Tour":
+  - description: "
+    We will follow the F1 Calendar, apart from A couple races\n\n
+    21 March     - Suzuka \n
+"
+    cars:
+      e46sport: "BMW E46"
+    Weather: 1
+    StartMode: FormationRollingStart
+    RaceStart: "12:00"
+    RaceLaps: 15
+    RaceTime: 15
+    RaceTimeScaled: 60
+    races:
+      - race_01:
+        track: 12Suzuka
+        Weather: 1
+        AIStrength: 110
+        AIRealism: 1.5
+        RaceLaps: 15
+        RaceTime: 15
